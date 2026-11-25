@@ -1,0 +1,21 @@
+﻿subject,zip,status,inverse_error,rotation_orthogonality_error,translation_mm,warning
+100307,E:\HCP_MEG_preprocessing\100307_MEG_anatomy.zip,PARSED,5.756632500109049e-05,0.01678881744795494,32.14196033413599,SPM frame is not automatically fsaverage MRI frame
+102816,E:\HCP_MEG_preprocessing\102816_MEG_anatomy.zip,PARSED,6.002309559960395e-05,0.021879208293590892,30.506553453643367,SPM frame is not automatically fsaverage MRI frame
+106521,E:\HCP_MEG_preprocessing\106521_MEG_anatomy.zip,PARSED,2.9573649204195362e-05,0.02087533151174659,34.504867168061956,SPM frame is not automatically fsaverage MRI frame
+108323,E:\HCP_MEG_preprocessing\108323_MEG_anatomy.zip,PARSED,9.060677500372094e-05,0.025743465060379028,31.07710959182157,SPM frame is not automatically fsaverage MRI frame
+109123,E:\HCP_MEG_preprocessing\109123_MEG_anatomy.zip,PARSED,4.2435462802359325e-05,0.012253916400109588,30.358722280064754,SPM frame is not automatically fsaverage MRI frame
+111514,E:\HCP_MEG_preprocessing\111514_MEG_anatomy.zip,PARSED,2.0873724499992363e-05,0.013858383404222076,30.80732541412188,SPM frame is not automatically fsaverage MRI frame
+112920,E:\HCP_MEG_preprocessing\112920_MEG_anatomy.zip,PARSED,4.8795728000428085e-05,0.01606341637572673,29.36833532466728,SPM frame is not automatically fsaverage MRI frame
+113922,E:\HCP_MEG_preprocessing\113922_MEG_anatomy.zip,PARSED,2.110245706887781e-05,0.015034337017580675,30.38978456825782,SPM frame is not automatically fsaverage MRI frame
+116726,E:\HCP_MEG_preprocessing\116726_MEG_anatomy.zip,PARSED,4.438664699968342e-05,0.012997656059084794,25.01073608387456,SPM frame is not automatically fsaverage MRI frame
+133019,E:\HCP_MEG_preprocessing\133019_MEG_anatomy.zip,PARSED,3.452145599780465e-05,0.01920209151310326,38.17530339664768,SPM frame is not automatically fsaverage MRI frame
+146129,E:\HCP_MEG_preprocessing\146129_MEG_anatomy.zip,PARSED,3.7757495999102275e-05,0.012817146018130573,28.697421083956673,SPM frame is not automatically fsaverage MRI frame
+149741,E:\HCP_MEG_preprocessing\149741_MEG_anatomy.zip,PARSED,4.3377286548462735e-05,0.007968501643673598,18.290785587795867,SPM frame is not automatically fsaverage MRI frame
+156334,E:\HCP_MEG_preprocessing\156334_MEG_anatomy.zip,PARSED,3.7838278718282936e-05,0.017566187117439142,32.64588167535991,SPM frame is not automatically fsaverage MRI frame
+158136,E:\HCP_MEG_preprocessing\158136_MEG_anatomy.zip,PARSED,3.00815300011692e-05,0.014641121672620837,32.00546443056872,SPM frame is not automatically fsaverage MRI frame
+162026,E:\HCP_MEG_preprocessing\162026_MEG_anatomy.zip,PARSED,3.976896200086344e-05,0.023678697609396667,31.758372282281723,SPM frame is not automatically fsaverage MRI frame
+162935,E:\HCP_MEG_preprocessing\162935_MEG_anatomy.zip,PARSED,8.507056249840161e-05,0.006142962451161822,28.917094671034985,SPM frame is not automatically fsaverage MRI frame
+164636,E:\HCP_MEG_preprocessing\164636_MEG_anatomy.zip,PARSED,4.5298404998561637e-05,0.015850736560420426,33.94341360057353,SPM frame is not automatically fsaverage MRI frame
+166438,E:\HCP_MEG_preprocessing\166438_MEG_anatomy.zip,PARSED,4.3116030905565594e-05,0.014083160829453451,30.29926850046278,SPM frame is not automatically fsaverage MRI frame
+169040,E:\HCP_MEG_preprocessing\169040_MEG_anatomy.zip,PARSED,6.919645580083511e-05,0.011578404675692718,35.38775517558473,SPM frame is not automatically fsaverage MRI frame
+172029,E:\HCP_MEG_preprocessing\172029_MEG_anatomy.zip,PARSED,2.1121520497047186e-05,0.022383179452771414,31.99496453036946,SPM frame is not automatically fsaverage MRI frame

@@ -1,0 +1,6 @@
+﻿file,term,present
+Timeseries_Extracting.ipynb,find_parcellation_cut_coords,True
+Timeseries_Extracting.ipynb,setup_volume_source_space,True
+Timeseries_Extracting.ipynb,parse_subject_transform,True
+Timeseries_Extracting.ipynb,mne_src_coords - target_coord,True
+Timeseries_Extracting.ipynb,df_labels['AAL_Label'],True

@@ -1,0 +1,586 @@
+Strategy,Modality,Fusion_Model,Baseline_Model,Fusion_Acc,Baseline_Acc,McNemar_Statistic,P_Value,Significant (p<0.05)
+Raw_Edges,fMRI,Pearson+GCA,Pearson,100,85,0,0.25,FALSE
+Raw_Edges,fMRI,Pearson+GCA,GCA,100,90,0,0.5,FALSE
+Raw_Edges,fMRI,Pearson+mTE,Pearson,100,85,0,0.25,FALSE
+Raw_Edges,fMRI,Pearson+mTE,mTE,100,90,0,0.5,FALSE
+Raw_Edges,fMRI,GCA+mTE,GCA,95,90,0,1,FALSE
+Raw_Edges,fMRI,GCA+mTE,mTE,95,90,1,1,FALSE
+Raw_Edges,fMRI,Pearson+GCA+mTE,Pearson,100,85,0,0.25,FALSE
+Raw_Edges,fMRI,Pearson+GCA+mTE,GCA,100,90,0,0.5,FALSE
+Raw_Edges,fMRI,Pearson+GCA+mTE,mTE,100,90,0,0.5,FALSE
+Raw_Edges,MEG_Alpha,Pearson+GCA,Pearson,5,10,0,1,FALSE
+Raw_Edges,MEG_Alpha,Pearson+GCA,GCA,5,25,0,0.125,FALSE
+Raw_Edges,MEG_Alpha,Pearson+mTE,Pearson,15,10,1,1,FALSE
+Raw_Edges,MEG_Alpha,Pearson+mTE,mTE,15,15,1,1,FALSE
+Raw_Edges,MEG_Alpha,GCA+mTE,GCA,25,25,2,1,FALSE
+Raw_Edges,MEG_Alpha,GCA+mTE,mTE,25,15,1,0.625,FALSE
+Raw_Edges,MEG_Alpha,Pearson+GCA+mTE,Pearson,10,10,2,1,FALSE
+Raw_Edges,MEG_Alpha,Pearson+GCA+mTE,GCA,10,25,1,0.375,FALSE
+Raw_Edges,MEG_Alpha,Pearson+GCA+mTE,mTE,10,15,1,1,FALSE
+Raw_Edges,MEG_Aperiodic-VMD,Pearson+GCA,Pearson,100,90,0,0.5,FALSE
+Raw_Edges,MEG_Aperiodic-VMD,Pearson+GCA,GCA,100,95,0,1,FALSE
+Raw_Edges,MEG_Aperiodic-VMD,Pearson+mTE,Pearson,85,90,0,1,FALSE
+Raw_Edges,MEG_Aperiodic-VMD,Pearson+mTE,mTE,85,0,0,1.53E-05,TRUE
+Raw_Edges,MEG_Aperiodic-VMD,GCA+mTE,GCA,90,95,0,1,FALSE
+Raw_Edges,MEG_Aperiodic-VMD,GCA+mTE,mTE,90,0,0,7.63E-06,TRUE
+Raw_Edges,MEG_Aperiodic-VMD,Pearson+GCA+mTE,Pearson,100,90,0,0.5,FALSE
+Raw_Edges,MEG_Aperiodic-VMD,Pearson+GCA+mTE,GCA,100,95,0,1,FALSE
+Raw_Edges,MEG_Aperiodic-VMD,Pearson+GCA+mTE,mTE,100,0,0,1.91E-06,TRUE
+Raw_Edges,MEG_Beta,Pearson+GCA,Pearson,25,0,0,0.0625,FALSE
+Raw_Edges,MEG_Beta,Pearson+GCA,GCA,25,40,1,0.375,FALSE
+Raw_Edges,MEG_Beta,Pearson+mTE,Pearson,0,0,0,1,FALSE
+Raw_Edges,MEG_Beta,Pearson+mTE,mTE,0,5,0,1,FALSE
+Raw_Edges,MEG_Beta,GCA+mTE,GCA,35,40,0,1,FALSE
+Raw_Edges,MEG_Beta,GCA+mTE,mTE,35,5,1,0.0703125,FALSE
+Raw_Edges,MEG_Beta,Pearson+GCA+mTE,Pearson,25,0,0,0.0625,FALSE
+Raw_Edges,MEG_Beta,Pearson+GCA+mTE,GCA,25,40,1,0.375,FALSE
+Raw_Edges,MEG_Beta,Pearson+GCA+mTE,mTE,25,5,1,0.21875,FALSE
+Raw_Edges,MEG_Delta,Pearson+GCA,Pearson,10,0,0,0.5,FALSE
+Raw_Edges,MEG_Delta,Pearson+GCA,GCA,10,10,1,1,FALSE
+Raw_Edges,MEG_Delta,Pearson+mTE,Pearson,0,0,0,1,FALSE
+Raw_Edges,MEG_Delta,Pearson+mTE,mTE,0,5,0,1,FALSE
+Raw_Edges,MEG_Delta,GCA+mTE,GCA,5,10,0,1,FALSE
+Raw_Edges,MEG_Delta,GCA+mTE,mTE,5,5,1,1,FALSE
+Raw_Edges,MEG_Delta,Pearson+GCA+mTE,Pearson,0,0,0,1,FALSE
+Raw_Edges,MEG_Delta,Pearson+GCA+mTE,GCA,0,10,0,0.5,FALSE
+Raw_Edges,MEG_Delta,Pearson+GCA+mTE,mTE,0,5,0,1,FALSE
+Raw_Edges,MEG_High-Gamma,Pearson+GCA,Pearson,90,5,0,1.53E-05,TRUE
+Raw_Edges,MEG_High-Gamma,Pearson+GCA,GCA,90,90,0,1,FALSE
+Raw_Edges,MEG_High-Gamma,Pearson+mTE,Pearson,10,5,0,1,FALSE
+Raw_Edges,MEG_High-Gamma,Pearson+mTE,mTE,10,10,1,1,FALSE
+Raw_Edges,MEG_High-Gamma,GCA+mTE,GCA,85,90,0,1,FALSE
+Raw_Edges,MEG_High-Gamma,GCA+mTE,mTE,85,10,0,6.10E-05,TRUE
+Raw_Edges,MEG_High-Gamma,Pearson+GCA+mTE,Pearson,85,5,0,3.05E-05,TRUE
+Raw_Edges,MEG_High-Gamma,Pearson+GCA+mTE,GCA,85,90,0,1,FALSE
+Raw_Edges,MEG_High-Gamma,Pearson+GCA+mTE,mTE,85,10,0,6.10E-05,TRUE
+Raw_Edges,MEG_Low-Frequency,Pearson+GCA,Pearson,10,0,0,0.5,FALSE
+Raw_Edges,MEG_Low-Frequency,Pearson+GCA,GCA,10,15,0,1,FALSE
+Raw_Edges,MEG_Low-Frequency,Pearson+mTE,Pearson,10,0,0,0.5,FALSE
+Raw_Edges,MEG_Low-Frequency,Pearson+mTE,mTE,10,15,0,1,FALSE
+Raw_Edges,MEG_Low-Frequency,GCA+mTE,GCA,15,15,2,1,FALSE
+Raw_Edges,MEG_Low-Frequency,GCA+mTE,mTE,15,15,0,1,FALSE
+Raw_Edges,MEG_Low-Frequency,Pearson+GCA+mTE,Pearson,15,0,0,0.25,FALSE
+Raw_Edges,MEG_Low-Frequency,Pearson+GCA+mTE,GCA,15,15,2,1,FALSE
+Raw_Edges,MEG_Low-Frequency,Pearson+GCA+mTE,mTE,15,15,1,1,FALSE
+Raw_Edges,MEG_Low-Gamma,Pearson+GCA,Pearson,85,0,0,1.53E-05,TRUE
+Raw_Edges,MEG_Low-Gamma,Pearson+GCA,GCA,85,90,0,1,FALSE
+Raw_Edges,MEG_Low-Gamma,Pearson+mTE,Pearson,25,0,0,0.0625,FALSE
+Raw_Edges,MEG_Low-Gamma,Pearson+mTE,mTE,25,40,0,0.25,FALSE
+Raw_Edges,MEG_Low-Gamma,GCA+mTE,GCA,95,90,0,1,FALSE
+Raw_Edges,MEG_Low-Gamma,GCA+mTE,mTE,95,40,0,0.000976563,TRUE
+Raw_Edges,MEG_Low-Gamma,Pearson+GCA+mTE,Pearson,95,0,0,3.81E-06,TRUE
+Raw_Edges,MEG_Low-Gamma,Pearson+GCA+mTE,GCA,95,90,0,1,FALSE
+Raw_Edges,MEG_Low-Gamma,Pearson+GCA+mTE,mTE,95,40,0,0.000976563,TRUE
+Raw_Edges,MEG_Theta,Pearson+GCA,Pearson,50,10,0,0.0078125,TRUE
+Raw_Edges,MEG_Theta,Pearson+GCA,GCA,50,50,4,1,FALSE
+Raw_Edges,MEG_Theta,Pearson+mTE,Pearson,0,10,0,0.5,FALSE
+Raw_Edges,MEG_Theta,Pearson+mTE,mTE,0,0,0,1,FALSE
+Raw_Edges,MEG_Theta,GCA+mTE,GCA,45,50,0,1,FALSE
+Raw_Edges,MEG_Theta,GCA+mTE,mTE,45,0,0,0.00390625,TRUE
+Raw_Edges,MEG_Theta,Pearson+GCA+mTE,Pearson,30,10,2,0.2890625,FALSE
+Raw_Edges,MEG_Theta,Pearson+GCA+mTE,GCA,30,50,1,0.21875,FALSE
+Raw_Edges,MEG_Theta,Pearson+GCA+mTE,mTE,30,0,0,0.03125,TRUE
+Raw_Edges,MEG_Wide-band,Pearson+GCA,Pearson,95,5,0,7.63E-06,TRUE
+Raw_Edges,MEG_Wide-band,Pearson+GCA,GCA,95,95,0,1,FALSE
+Raw_Edges,MEG_Wide-band,Pearson+mTE,Pearson,10,5,0,1,FALSE
+Raw_Edges,MEG_Wide-band,Pearson+mTE,mTE,10,5,0,1,FALSE
+Raw_Edges,MEG_Wide-band,GCA+mTE,GCA,90,95,0,1,FALSE
+Raw_Edges,MEG_Wide-band,GCA+mTE,mTE,90,5,0,1.53E-05,TRUE
+Raw_Edges,MEG_Wide-band,Pearson+GCA+mTE,Pearson,90,5,0,1.53E-05,TRUE
+Raw_Edges,MEG_Wide-band,Pearson+GCA+mTE,GCA,90,95,0,1,FALSE
+Raw_Edges,MEG_Wide-band,Pearson+GCA+mTE,mTE,90,5,0,1.53E-05,TRUE
+Raw_Edges,fMRI + MEG_Aperiodic-VMD,Pearson+GCA,Pearson,100,95,0,1,FALSE
+Raw_Edges,fMRI + MEG_Aperiodic-VMD,Pearson+GCA,GCA,100,100,0,1,FALSE
+Raw_Edges,fMRI + MEG_Aperiodic-VMD,Pearson+mTE,Pearson,100,95,0,1,FALSE
+Raw_Edges,fMRI + MEG_Aperiodic-VMD,Pearson+mTE,mTE,100,90,0,0.5,FALSE
+Raw_Edges,fMRI + MEG_Aperiodic-VMD,GCA+mTE,GCA,100,100,0,1,FALSE
+Raw_Edges,fMRI + MEG_Aperiodic-VMD,GCA+mTE,mTE,100,90,0,0.5,FALSE
+Raw_Edges,fMRI + MEG_Aperiodic-VMD,Pearson+GCA+mTE,Pearson,100,95,0,1,FALSE
+Raw_Edges,fMRI + MEG_Aperiodic-VMD,Pearson+GCA+mTE,GCA,100,100,0,1,FALSE
+Raw_Edges,fMRI + MEG_Aperiodic-VMD,Pearson+GCA+mTE,mTE,100,90,0,0.5,FALSE
+Raw_Edges,MEG_All_Bands,Pearson+GCA,Pearson,95,60,0,0.015625,TRUE
+Raw_Edges,MEG_All_Bands,Pearson+GCA,GCA,95,95,0,1,FALSE
+Raw_Edges,MEG_All_Bands,Pearson+mTE,Pearson,45,60,2,0.453125,FALSE
+Raw_Edges,MEG_All_Bands,Pearson+mTE,mTE,45,10,0,0.015625,TRUE
+Raw_Edges,MEG_All_Bands,GCA+mTE,GCA,95,95,0,1,FALSE
+Raw_Edges,MEG_All_Bands,GCA+mTE,mTE,95,10,0,1.53E-05,TRUE
+Raw_Edges,MEG_All_Bands,Pearson+GCA+mTE,Pearson,95,60,0,0.015625,TRUE
+Raw_Edges,MEG_All_Bands,Pearson+GCA+mTE,GCA,95,95,0,1,FALSE
+Raw_Edges,MEG_All_Bands,Pearson+GCA+mTE,mTE,95,10,0,1.53E-05,TRUE
+Raw_Edges,fMRI + MEG_All_Bands,Pearson+GCA,Pearson,100,95,0,1,FALSE
+Raw_Edges,fMRI + MEG_All_Bands,Pearson+GCA,GCA,100,100,0,1,FALSE
+Raw_Edges,fMRI + MEG_All_Bands,Pearson+mTE,Pearson,80,95,0,0.25,FALSE
+Raw_Edges,fMRI + MEG_All_Bands,Pearson+mTE,mTE,80,55,0,0.0625,FALSE
+Raw_Edges,fMRI + MEG_All_Bands,GCA+mTE,GCA,100,100,0,1,FALSE
+Raw_Edges,fMRI + MEG_All_Bands,GCA+mTE,mTE,100,55,0,0.00390625,TRUE
+Raw_Edges,fMRI + MEG_All_Bands,Pearson+GCA+mTE,Pearson,100,95,0,1,FALSE
+Raw_Edges,fMRI + MEG_All_Bands,Pearson+GCA+mTE,GCA,100,100,0,1,FALSE
+Raw_Edges,fMRI + MEG_All_Bands,Pearson+GCA+mTE,mTE,100,55,0,0.00390625,TRUE
+Sub_Network,fMRI,Pearson+GCA,Pearson,80,80,3,1,FALSE
+Sub_Network,fMRI,Pearson+GCA,GCA,80,70,0,0.5,FALSE
+Sub_Network,fMRI,Pearson+mTE,Pearson,100,80,0,0.125,FALSE
+Sub_Network,fMRI,Pearson+mTE,mTE,100,95,0,1,FALSE
+Sub_Network,fMRI,GCA+mTE,GCA,95,70,0,0.0625,FALSE
+Sub_Network,fMRI,GCA+mTE,mTE,95,95,0,1,FALSE
+Sub_Network,fMRI,Pearson+GCA+mTE,Pearson,100,80,0,0.125,FALSE
+Sub_Network,fMRI,Pearson+GCA+mTE,GCA,100,70,0,0.03125,TRUE
+Sub_Network,fMRI,Pearson+GCA+mTE,mTE,100,95,0,1,FALSE
+Sub_Network,MEG_Alpha,Pearson+GCA,Pearson,15,0,0,0.25,FALSE
+Sub_Network,MEG_Alpha,Pearson+GCA,GCA,15,5,0,0.5,FALSE
+Sub_Network,MEG_Alpha,Pearson+mTE,Pearson,15,0,0,0.25,FALSE
+Sub_Network,MEG_Alpha,Pearson+mTE,mTE,15,15,1,1,FALSE
+Sub_Network,MEG_Alpha,GCA+mTE,GCA,20,5,0,0.25,FALSE
+Sub_Network,MEG_Alpha,GCA+mTE,mTE,20,15,1,1,FALSE
+Sub_Network,MEG_Alpha,Pearson+GCA+mTE,Pearson,20,0,0,0.125,FALSE
+Sub_Network,MEG_Alpha,Pearson+GCA+mTE,GCA,20,5,0,0.25,FALSE
+Sub_Network,MEG_Alpha,Pearson+GCA+mTE,mTE,20,15,1,1,FALSE
+Sub_Network,MEG_Aperiodic-VMD,Pearson+GCA,Pearson,100,90,0,0.5,FALSE
+Sub_Network,MEG_Aperiodic-VMD,Pearson+GCA,GCA,100,95,0,1,FALSE
+Sub_Network,MEG_Aperiodic-VMD,Pearson+mTE,Pearson,55,90,0,0.015625,TRUE
+Sub_Network,MEG_Aperiodic-VMD,Pearson+mTE,mTE,55,0,0,0.000976563,TRUE
+Sub_Network,MEG_Aperiodic-VMD,GCA+mTE,GCA,90,95,1,1,FALSE
+Sub_Network,MEG_Aperiodic-VMD,GCA+mTE,mTE,90,0,0,7.63E-06,TRUE
+Sub_Network,MEG_Aperiodic-VMD,Pearson+GCA+mTE,Pearson,100,90,0,0.5,FALSE
+Sub_Network,MEG_Aperiodic-VMD,Pearson+GCA+mTE,GCA,100,95,0,1,FALSE
+Sub_Network,MEG_Aperiodic-VMD,Pearson+GCA+mTE,mTE,100,0,0,1.91E-06,TRUE
+Sub_Network,MEG_Beta,Pearson+GCA,Pearson,30,0,0,0.03125,TRUE
+Sub_Network,MEG_Beta,Pearson+GCA,GCA,30,45,1,0.375,FALSE
+Sub_Network,MEG_Beta,Pearson+mTE,Pearson,5,0,0,1,FALSE
+Sub_Network,MEG_Beta,Pearson+mTE,mTE,5,5,1,1,FALSE
+Sub_Network,MEG_Beta,GCA+mTE,GCA,30,45,0,0.25,FALSE
+Sub_Network,MEG_Beta,GCA+mTE,mTE,30,5,1,0.125,FALSE
+Sub_Network,MEG_Beta,Pearson+GCA+mTE,Pearson,25,0,0,0.0625,FALSE
+Sub_Network,MEG_Beta,Pearson+GCA+mTE,GCA,25,45,0,0.125,FALSE
+Sub_Network,MEG_Beta,Pearson+GCA+mTE,mTE,25,5,1,0.21875,FALSE
+Sub_Network,MEG_Delta,Pearson+GCA,Pearson,5,10,0,1,FALSE
+Sub_Network,MEG_Delta,Pearson+GCA,GCA,5,10,1,1,FALSE
+Sub_Network,MEG_Delta,Pearson+mTE,Pearson,5,10,1,1,FALSE
+Sub_Network,MEG_Delta,Pearson+mTE,mTE,5,5,1,1,FALSE
+Sub_Network,MEG_Delta,GCA+mTE,GCA,5,10,0,1,FALSE
+Sub_Network,MEG_Delta,GCA+mTE,mTE,5,5,1,1,FALSE
+Sub_Network,MEG_Delta,Pearson+GCA+mTE,Pearson,5,10,1,1,FALSE
+Sub_Network,MEG_Delta,Pearson+GCA+mTE,GCA,5,10,0,1,FALSE
+Sub_Network,MEG_Delta,Pearson+GCA+mTE,mTE,5,5,1,1,FALSE
+Sub_Network,MEG_High-Gamma,Pearson+GCA,Pearson,90,5,0,1.53E-05,TRUE
+Sub_Network,MEG_High-Gamma,Pearson+GCA,GCA,90,90,0,1,FALSE
+Sub_Network,MEG_High-Gamma,Pearson+mTE,Pearson,15,5,0,0.5,FALSE
+Sub_Network,MEG_High-Gamma,Pearson+mTE,mTE,15,10,1,1,FALSE
+Sub_Network,MEG_High-Gamma,GCA+mTE,GCA,80,90,0,0.5,FALSE
+Sub_Network,MEG_High-Gamma,GCA+mTE,mTE,80,10,0,0.00012207,TRUE
+Sub_Network,MEG_High-Gamma,Pearson+GCA+mTE,Pearson,80,5,0,6.10E-05,TRUE
+Sub_Network,MEG_High-Gamma,Pearson+GCA+mTE,GCA,80,90,0,0.5,FALSE
+Sub_Network,MEG_High-Gamma,Pearson+GCA+mTE,mTE,80,10,0,0.00012207,TRUE
+Sub_Network,MEG_Low-Frequency,Pearson+GCA,Pearson,0,5,0,1,FALSE
+Sub_Network,MEG_Low-Frequency,Pearson+GCA,GCA,0,5,0,1,FALSE
+Sub_Network,MEG_Low-Frequency,Pearson+mTE,Pearson,10,5,1,1,FALSE
+Sub_Network,MEG_Low-Frequency,Pearson+mTE,mTE,10,15,0,1,FALSE
+Sub_Network,MEG_Low-Frequency,GCA+mTE,GCA,15,5,0,0.5,FALSE
+Sub_Network,MEG_Low-Frequency,GCA+mTE,mTE,15,15,0,1,FALSE
+Sub_Network,MEG_Low-Frequency,Pearson+GCA+mTE,Pearson,10,5,1,1,FALSE
+Sub_Network,MEG_Low-Frequency,Pearson+GCA+mTE,GCA,10,5,0,1,FALSE
+Sub_Network,MEG_Low-Frequency,Pearson+GCA+mTE,mTE,10,15,0,1,FALSE
+Sub_Network,MEG_Low-Gamma,Pearson+GCA,Pearson,90,0,0,7.63E-06,TRUE
+Sub_Network,MEG_Low-Gamma,Pearson+GCA,GCA,90,95,0,1,FALSE
+Sub_Network,MEG_Low-Gamma,Pearson+mTE,Pearson,20,0,0,0.125,FALSE
+Sub_Network,MEG_Low-Gamma,Pearson+mTE,mTE,20,30,0,0.5,FALSE
+Sub_Network,MEG_Low-Gamma,GCA+mTE,GCA,90,95,0,1,FALSE
+Sub_Network,MEG_Low-Gamma,GCA+mTE,mTE,90,30,0,0.000488281,TRUE
+Sub_Network,MEG_Low-Gamma,Pearson+GCA+mTE,Pearson,80,0,0,3.05E-05,TRUE
+Sub_Network,MEG_Low-Gamma,Pearson+GCA+mTE,GCA,80,95,0,0.25,FALSE
+Sub_Network,MEG_Low-Gamma,Pearson+GCA+mTE,mTE,80,30,0,0.001953125,TRUE
+Sub_Network,MEG_Theta,Pearson+GCA,Pearson,40,0,0,0.0078125,TRUE
+Sub_Network,MEG_Theta,Pearson+GCA,GCA,40,50,0,0.5,FALSE
+Sub_Network,MEG_Theta,Pearson+mTE,Pearson,5,0,0,1,FALSE
+Sub_Network,MEG_Theta,Pearson+mTE,mTE,5,0,0,1,FALSE
+Sub_Network,MEG_Theta,GCA+mTE,GCA,35,50,1,0.375,FALSE
+Sub_Network,MEG_Theta,GCA+mTE,mTE,35,0,0,0.015625,TRUE
+Sub_Network,MEG_Theta,Pearson+GCA+mTE,Pearson,35,0,0,0.015625,TRUE
+Sub_Network,MEG_Theta,Pearson+GCA+mTE,GCA,35,50,1,0.375,FALSE
+Sub_Network,MEG_Theta,Pearson+GCA+mTE,mTE,35,0,0,0.015625,TRUE
+Sub_Network,MEG_Wide-band,Pearson+GCA,Pearson,100,0,0,1.91E-06,TRUE
+Sub_Network,MEG_Wide-band,Pearson+GCA,GCA,100,95,0,1,FALSE
+Sub_Network,MEG_Wide-band,Pearson+mTE,Pearson,5,0,0,1,FALSE
+Sub_Network,MEG_Wide-band,Pearson+mTE,mTE,5,5,0,1,FALSE
+Sub_Network,MEG_Wide-band,GCA+mTE,GCA,90,95,0,1,FALSE
+Sub_Network,MEG_Wide-band,GCA+mTE,mTE,90,5,0,1.53E-05,TRUE
+Sub_Network,MEG_Wide-band,Pearson+GCA+mTE,Pearson,80,0,0,3.05E-05,TRUE
+Sub_Network,MEG_Wide-band,Pearson+GCA+mTE,GCA,80,95,1,0.375,FALSE
+Sub_Network,MEG_Wide-band,Pearson+GCA+mTE,mTE,80,5,0,6.10E-05,TRUE
+Sub_Network,fMRI + MEG_Aperiodic-VMD,Pearson+GCA,Pearson,100,95,0,1,FALSE
+Sub_Network,fMRI + MEG_Aperiodic-VMD,Pearson+GCA,GCA,100,100,0,1,FALSE
+Sub_Network,fMRI + MEG_Aperiodic-VMD,Pearson+mTE,Pearson,95,95,0,1,FALSE
+Sub_Network,fMRI + MEG_Aperiodic-VMD,Pearson+mTE,mTE,95,70,1,0.125,FALSE
+Sub_Network,fMRI + MEG_Aperiodic-VMD,GCA+mTE,GCA,100,100,0,1,FALSE
+Sub_Network,fMRI + MEG_Aperiodic-VMD,GCA+mTE,mTE,100,70,0,0.03125,TRUE
+Sub_Network,fMRI + MEG_Aperiodic-VMD,Pearson+GCA+mTE,Pearson,100,95,0,1,FALSE
+Sub_Network,fMRI + MEG_Aperiodic-VMD,Pearson+GCA+mTE,GCA,100,100,0,1,FALSE
+Sub_Network,fMRI + MEG_Aperiodic-VMD,Pearson+GCA+mTE,mTE,100,70,0,0.03125,TRUE
+Sub_Network,MEG_All_Bands,Pearson+GCA,Pearson,95,60,0,0.015625,TRUE
+Sub_Network,MEG_All_Bands,Pearson+GCA,GCA,95,100,0,1,FALSE
+Sub_Network,MEG_All_Bands,Pearson+mTE,Pearson,35,60,2,0.1796875,FALSE
+Sub_Network,MEG_All_Bands,Pearson+mTE,mTE,35,10,0,0.0625,FALSE
+Sub_Network,MEG_All_Bands,GCA+mTE,GCA,95,100,0,1,FALSE
+Sub_Network,MEG_All_Bands,GCA+mTE,mTE,95,10,0,1.53E-05,TRUE
+Sub_Network,MEG_All_Bands,Pearson+GCA+mTE,Pearson,90,60,1,0.0703125,FALSE
+Sub_Network,MEG_All_Bands,Pearson+GCA+mTE,GCA,90,100,0,0.5,FALSE
+Sub_Network,MEG_All_Bands,Pearson+GCA+mTE,mTE,90,10,0,3.05E-05,TRUE
+Sub_Network,fMRI + MEG_All_Bands,Pearson+GCA,Pearson,100,65,0,0.015625,TRUE
+Sub_Network,fMRI + MEG_All_Bands,Pearson+GCA,GCA,100,100,0,1,FALSE
+Sub_Network,fMRI + MEG_All_Bands,Pearson+mTE,Pearson,60,65,3,1,FALSE
+Sub_Network,fMRI + MEG_All_Bands,Pearson+mTE,mTE,60,50,0,0.5,FALSE
+Sub_Network,fMRI + MEG_All_Bands,GCA+mTE,GCA,95,100,0,1,FALSE
+Sub_Network,fMRI + MEG_All_Bands,GCA+mTE,mTE,95,50,0,0.00390625,TRUE
+Sub_Network,fMRI + MEG_All_Bands,Pearson+GCA+mTE,Pearson,95,65,0,0.03125,TRUE
+Sub_Network,fMRI + MEG_All_Bands,Pearson+GCA+mTE,GCA,95,100,0,1,FALSE
+Sub_Network,fMRI + MEG_All_Bands,Pearson+GCA+mTE,mTE,95,50,0,0.00390625,TRUE
+DP_Enhanced,fMRI,Pearson+GCA,Pearson,95,85,1,0.625,FALSE
+DP_Enhanced,fMRI,Pearson+GCA,GCA,95,90,0,1,FALSE
+DP_Enhanced,fMRI,Pearson+mTE,Pearson,95,85,1,0.625,FALSE
+DP_Enhanced,fMRI,Pearson+mTE,mTE,95,90,0,1,FALSE
+DP_Enhanced,fMRI,GCA+mTE,GCA,95,90,1,1,FALSE
+DP_Enhanced,fMRI,GCA+mTE,mTE,95,90,0,1,FALSE
+DP_Enhanced,fMRI,Pearson+GCA+mTE,Pearson,95,85,1,0.625,FALSE
+DP_Enhanced,fMRI,Pearson+GCA+mTE,GCA,95,90,1,1,FALSE
+DP_Enhanced,fMRI,Pearson+GCA+mTE,mTE,95,90,0,1,FALSE
+DP_Enhanced,MEG_Alpha,Pearson+GCA,Pearson,5,0,0,1,FALSE
+DP_Enhanced,MEG_Alpha,Pearson+GCA,GCA,5,10,0,1,FALSE
+DP_Enhanced,MEG_Alpha,Pearson+mTE,Pearson,10,0,0,0.5,FALSE
+DP_Enhanced,MEG_Alpha,Pearson+mTE,mTE,10,15,0,1,FALSE
+DP_Enhanced,MEG_Alpha,GCA+mTE,GCA,20,10,1,0.625,FALSE
+DP_Enhanced,MEG_Alpha,GCA+mTE,mTE,20,15,1,1,FALSE
+DP_Enhanced,MEG_Alpha,Pearson+GCA+mTE,Pearson,15,0,0,0.25,FALSE
+DP_Enhanced,MEG_Alpha,Pearson+GCA+mTE,GCA,15,10,1,1,FALSE
+DP_Enhanced,MEG_Alpha,Pearson+GCA+mTE,mTE,15,15,1,1,FALSE
+DP_Enhanced,MEG_Aperiodic-VMD,Pearson+GCA,Pearson,100,80,0,0.125,FALSE
+DP_Enhanced,MEG_Aperiodic-VMD,Pearson+GCA,GCA,100,95,0,1,FALSE
+DP_Enhanced,MEG_Aperiodic-VMD,Pearson+mTE,Pearson,45,80,0,0.015625,TRUE
+DP_Enhanced,MEG_Aperiodic-VMD,Pearson+mTE,mTE,45,0,0,0.00390625,TRUE
+DP_Enhanced,MEG_Aperiodic-VMD,GCA+mTE,GCA,80,95,0,0.25,FALSE
+DP_Enhanced,MEG_Aperiodic-VMD,GCA+mTE,mTE,80,0,0,3.05E-05,TRUE
+DP_Enhanced,MEG_Aperiodic-VMD,Pearson+GCA+mTE,Pearson,95,80,0,0.25,FALSE
+DP_Enhanced,MEG_Aperiodic-VMD,Pearson+GCA+mTE,GCA,95,95,0,1,FALSE
+DP_Enhanced,MEG_Aperiodic-VMD,Pearson+GCA+mTE,mTE,95,0,0,3.81E-06,TRUE
+DP_Enhanced,MEG_Beta,Pearson+GCA,Pearson,5,0,0,1,FALSE
+DP_Enhanced,MEG_Beta,Pearson+GCA,GCA,5,35,0,0.03125,TRUE
+DP_Enhanced,MEG_Beta,Pearson+mTE,Pearson,0,0,0,1,FALSE
+DP_Enhanced,MEG_Beta,Pearson+mTE,mTE,0,5,0,1,FALSE
+DP_Enhanced,MEG_Beta,GCA+mTE,GCA,30,35,1,1,FALSE
+DP_Enhanced,MEG_Beta,GCA+mTE,mTE,30,5,1,0.125,FALSE
+DP_Enhanced,MEG_Beta,Pearson+GCA+mTE,Pearson,15,0,0,0.25,FALSE
+DP_Enhanced,MEG_Beta,Pearson+GCA+mTE,GCA,15,35,0,0.125,FALSE
+DP_Enhanced,MEG_Beta,Pearson+GCA+mTE,mTE,15,5,1,0.625,FALSE
+DP_Enhanced,MEG_Delta,Pearson+GCA,Pearson,5,10,0,1,FALSE
+DP_Enhanced,MEG_Delta,Pearson+GCA,GCA,5,10,1,1,FALSE
+DP_Enhanced,MEG_Delta,Pearson+mTE,Pearson,0,10,0,0.5,FALSE
+DP_Enhanced,MEG_Delta,Pearson+mTE,mTE,0,5,0,1,FALSE
+DP_Enhanced,MEG_Delta,GCA+mTE,GCA,0,10,0,0.5,FALSE
+DP_Enhanced,MEG_Delta,GCA+mTE,mTE,0,5,0,1,FALSE
+DP_Enhanced,MEG_Delta,Pearson+GCA+mTE,Pearson,0,10,0,0.5,FALSE
+DP_Enhanced,MEG_Delta,Pearson+GCA+mTE,GCA,0,10,0,0.5,FALSE
+DP_Enhanced,MEG_Delta,Pearson+GCA+mTE,mTE,0,5,0,1,FALSE
+DP_Enhanced,MEG_High-Gamma,Pearson+GCA,Pearson,90,0,0,7.63E-06,TRUE
+DP_Enhanced,MEG_High-Gamma,Pearson+GCA,GCA,90,95,0,1,FALSE
+DP_Enhanced,MEG_High-Gamma,Pearson+mTE,Pearson,5,0,0,1,FALSE
+DP_Enhanced,MEG_High-Gamma,Pearson+mTE,mTE,5,5,0,1,FALSE
+DP_Enhanced,MEG_High-Gamma,GCA+mTE,GCA,80,95,0,0.25,FALSE
+DP_Enhanced,MEG_High-Gamma,GCA+mTE,mTE,80,5,0,6.10E-05,TRUE
+DP_Enhanced,MEG_High-Gamma,Pearson+GCA+mTE,Pearson,85,0,0,1.53E-05,TRUE
+DP_Enhanced,MEG_High-Gamma,Pearson+GCA+mTE,GCA,85,95,0,0.5,FALSE
+DP_Enhanced,MEG_High-Gamma,Pearson+GCA+mTE,mTE,85,5,0,3.05E-05,TRUE
+DP_Enhanced,MEG_Low-Frequency,Pearson+GCA,Pearson,10,5,1,1,FALSE
+DP_Enhanced,MEG_Low-Frequency,Pearson+GCA,GCA,10,20,2,0.6875,FALSE
+DP_Enhanced,MEG_Low-Frequency,Pearson+mTE,Pearson,10,5,1,1,FALSE
+DP_Enhanced,MEG_Low-Frequency,Pearson+mTE,mTE,10,15,0,1,FALSE
+DP_Enhanced,MEG_Low-Frequency,GCA+mTE,GCA,10,20,1,0.625,FALSE
+DP_Enhanced,MEG_Low-Frequency,GCA+mTE,mTE,10,15,0,1,FALSE
+DP_Enhanced,MEG_Low-Frequency,Pearson+GCA+mTE,Pearson,10,5,1,1,FALSE
+DP_Enhanced,MEG_Low-Frequency,Pearson+GCA+mTE,GCA,10,20,1,0.625,FALSE
+DP_Enhanced,MEG_Low-Frequency,Pearson+GCA+mTE,mTE,10,15,0,1,FALSE
+DP_Enhanced,MEG_Low-Gamma,Pearson+GCA,Pearson,90,10,0,3.05E-05,TRUE
+DP_Enhanced,MEG_Low-Gamma,Pearson+GCA,GCA,90,95,0,1,FALSE
+DP_Enhanced,MEG_Low-Gamma,Pearson+mTE,Pearson,35,10,1,0.125,FALSE
+DP_Enhanced,MEG_Low-Gamma,Pearson+mTE,mTE,35,40,0,1,FALSE
+DP_Enhanced,MEG_Low-Gamma,GCA+mTE,GCA,70,95,0,0.0625,FALSE
+DP_Enhanced,MEG_Low-Gamma,GCA+mTE,mTE,70,40,0,0.03125,TRUE
+DP_Enhanced,MEG_Low-Gamma,Pearson+GCA+mTE,Pearson,85,10,0,6.10E-05,TRUE
+DP_Enhanced,MEG_Low-Gamma,Pearson+GCA+mTE,GCA,85,95,0,0.5,FALSE
+DP_Enhanced,MEG_Low-Gamma,Pearson+GCA+mTE,mTE,85,40,0,0.00390625,TRUE
+DP_Enhanced,MEG_Theta,Pearson+GCA,Pearson,25,0,0,0.0625,FALSE
+DP_Enhanced,MEG_Theta,Pearson+GCA,GCA,25,55,0,0.03125,TRUE
+DP_Enhanced,MEG_Theta,Pearson+mTE,Pearson,0,0,0,1,FALSE
+DP_Enhanced,MEG_Theta,Pearson+mTE,mTE,0,0,0,1,FALSE
+DP_Enhanced,MEG_Theta,GCA+mTE,GCA,30,55,1,0.125,FALSE
+DP_Enhanced,MEG_Theta,GCA+mTE,mTE,30,0,0,0.03125,TRUE
+DP_Enhanced,MEG_Theta,Pearson+GCA+mTE,Pearson,20,0,0,0.125,FALSE
+DP_Enhanced,MEG_Theta,Pearson+GCA+mTE,GCA,20,55,0,0.015625,TRUE
+DP_Enhanced,MEG_Theta,Pearson+GCA+mTE,mTE,20,0,0,0.125,FALSE
+DP_Enhanced,MEG_Wide-band,Pearson+GCA,Pearson,95,5,0,7.63E-06,TRUE
+DP_Enhanced,MEG_Wide-band,Pearson+GCA,GCA,95,95,0,1,FALSE
+DP_Enhanced,MEG_Wide-band,Pearson+mTE,Pearson,5,5,1,1,FALSE
+DP_Enhanced,MEG_Wide-band,Pearson+mTE,mTE,5,5,0,1,FALSE
+DP_Enhanced,MEG_Wide-band,GCA+mTE,GCA,70,95,0,0.0625,FALSE
+DP_Enhanced,MEG_Wide-band,GCA+mTE,mTE,70,5,0,0.000244141,TRUE
+DP_Enhanced,MEG_Wide-band,Pearson+GCA+mTE,Pearson,55,5,0,0.001953125,TRUE
+DP_Enhanced,MEG_Wide-band,Pearson+GCA+mTE,GCA,55,95,0,0.0078125,TRUE
+DP_Enhanced,MEG_Wide-band,Pearson+GCA+mTE,mTE,55,5,0,0.001953125,TRUE
+DP_Enhanced,fMRI + MEG_Aperiodic-VMD,Pearson+GCA,Pearson,100,100,0,1,FALSE
+DP_Enhanced,fMRI + MEG_Aperiodic-VMD,Pearson+GCA,GCA,100,100,0,1,FALSE
+DP_Enhanced,fMRI + MEG_Aperiodic-VMD,Pearson+mTE,Pearson,100,100,0,1,FALSE
+DP_Enhanced,fMRI + MEG_Aperiodic-VMD,Pearson+mTE,mTE,100,50,0,0.001953125,TRUE
+DP_Enhanced,fMRI + MEG_Aperiodic-VMD,GCA+mTE,GCA,100,100,0,1,FALSE
+DP_Enhanced,fMRI + MEG_Aperiodic-VMD,GCA+mTE,mTE,100,50,0,0.001953125,TRUE
+DP_Enhanced,fMRI + MEG_Aperiodic-VMD,Pearson+GCA+mTE,Pearson,100,100,0,1,FALSE
+DP_Enhanced,fMRI + MEG_Aperiodic-VMD,Pearson+GCA+mTE,GCA,100,100,0,1,FALSE
+DP_Enhanced,fMRI + MEG_Aperiodic-VMD,Pearson+GCA+mTE,mTE,100,50,0,0.001953125,TRUE
+DP_Enhanced,MEG_All_Bands,Pearson+GCA,Pearson,100,55,0,0.00390625,TRUE
+DP_Enhanced,MEG_All_Bands,Pearson+GCA,GCA,100,95,0,1,FALSE
+DP_Enhanced,MEG_All_Bands,Pearson+mTE,Pearson,20,55,1,0.0390625,TRUE
+DP_Enhanced,MEG_All_Bands,Pearson+mTE,mTE,20,5,0,0.25,FALSE
+DP_Enhanced,MEG_All_Bands,GCA+mTE,GCA,85,95,0,0.5,FALSE
+DP_Enhanced,MEG_All_Bands,GCA+mTE,mTE,85,5,0,3.05E-05,TRUE
+DP_Enhanced,MEG_All_Bands,Pearson+GCA+mTE,Pearson,85,55,2,0.109375,FALSE
+DP_Enhanced,MEG_All_Bands,Pearson+GCA+mTE,GCA,85,95,0,0.5,FALSE
+DP_Enhanced,MEG_All_Bands,Pearson+GCA+mTE,mTE,85,5,0,3.05E-05,TRUE
+DP_Enhanced,fMRI + MEG_All_Bands,Pearson+GCA,Pearson,100,70,0,0.03125,TRUE
+DP_Enhanced,fMRI + MEG_All_Bands,Pearson+GCA,GCA,100,100,0,1,FALSE
+DP_Enhanced,fMRI + MEG_All_Bands,Pearson+mTE,Pearson,60,70,3,0.7265625,FALSE
+DP_Enhanced,fMRI + MEG_All_Bands,Pearson+mTE,mTE,60,35,0,0.0625,FALSE
+DP_Enhanced,fMRI + MEG_All_Bands,GCA+mTE,GCA,85,100,0,0.25,FALSE
+DP_Enhanced,fMRI + MEG_All_Bands,GCA+mTE,mTE,85,35,0,0.001953125,TRUE
+DP_Enhanced,fMRI + MEG_All_Bands,Pearson+GCA+mTE,Pearson,85,70,2,0.453125,FALSE
+DP_Enhanced,fMRI + MEG_All_Bands,Pearson+GCA+mTE,GCA,85,100,0,0.25,FALSE
+DP_Enhanced,fMRI + MEG_All_Bands,Pearson+GCA+mTE,mTE,85,35,0,0.001953125,TRUE
+PCA_Reconstructed,fMRI,Pearson+GCA,Pearson,50,60,0,0.5,FALSE
+PCA_Reconstructed,fMRI,Pearson+GCA,GCA,50,50,2,1,FALSE
+PCA_Reconstructed,fMRI,Pearson+mTE,Pearson,35,60,1,0.125,FALSE
+PCA_Reconstructed,fMRI,Pearson+mTE,mTE,35,20,0,0.25,FALSE
+PCA_Reconstructed,fMRI,GCA+mTE,GCA,35,50,1,0.375,FALSE
+PCA_Reconstructed,fMRI,GCA+mTE,mTE,35,20,0,0.25,FALSE
+PCA_Reconstructed,fMRI,Pearson+GCA+mTE,Pearson,40,60,0,0.125,FALSE
+PCA_Reconstructed,fMRI,Pearson+GCA+mTE,GCA,40,50,1,0.625,FALSE
+PCA_Reconstructed,fMRI,Pearson+GCA+mTE,mTE,40,20,0,0.125,FALSE
+PCA_Reconstructed,MEG_Alpha,Pearson+GCA,Pearson,10,5,1,1,FALSE
+PCA_Reconstructed,MEG_Alpha,Pearson+GCA,GCA,10,15,1,1,FALSE
+PCA_Reconstructed,MEG_Alpha,Pearson+mTE,Pearson,10,5,1,1,FALSE
+PCA_Reconstructed,MEG_Alpha,Pearson+mTE,mTE,10,5,1,1,FALSE
+PCA_Reconstructed,MEG_Alpha,GCA+mTE,GCA,5,15,1,0.625,FALSE
+PCA_Reconstructed,MEG_Alpha,GCA+mTE,mTE,5,5,1,1,FALSE
+PCA_Reconstructed,MEG_Alpha,Pearson+GCA+mTE,Pearson,5,5,1,1,FALSE
+PCA_Reconstructed,MEG_Alpha,Pearson+GCA+mTE,GCA,5,15,0,0.5,FALSE
+PCA_Reconstructed,MEG_Alpha,Pearson+GCA+mTE,mTE,5,5,1,1,FALSE
+PCA_Reconstructed,MEG_Aperiodic-VMD,Pearson+GCA,Pearson,15,85,0,0.00012207,TRUE
+PCA_Reconstructed,MEG_Aperiodic-VMD,Pearson+GCA,GCA,15,15,0,1,FALSE
+PCA_Reconstructed,MEG_Aperiodic-VMD,Pearson+mTE,Pearson,45,85,0,0.0078125,TRUE
+PCA_Reconstructed,MEG_Aperiodic-VMD,Pearson+mTE,mTE,45,0,0,0.00390625,TRUE
+PCA_Reconstructed,MEG_Aperiodic-VMD,GCA+mTE,GCA,20,15,1,1,FALSE
+PCA_Reconstructed,MEG_Aperiodic-VMD,GCA+mTE,mTE,20,0,0,0.125,FALSE
+PCA_Reconstructed,MEG_Aperiodic-VMD,Pearson+GCA+mTE,Pearson,20,85,0,0.000244141,TRUE
+PCA_Reconstructed,MEG_Aperiodic-VMD,Pearson+GCA+mTE,GCA,20,15,0,1,FALSE
+PCA_Reconstructed,MEG_Aperiodic-VMD,Pearson+GCA+mTE,mTE,20,0,0,0.125,FALSE
+PCA_Reconstructed,MEG_Beta,Pearson+GCA,Pearson,5,10,1,1,FALSE
+PCA_Reconstructed,MEG_Beta,Pearson+GCA,GCA,5,5,0,1,FALSE
+PCA_Reconstructed,MEG_Beta,Pearson+mTE,Pearson,5,10,0,1,FALSE
+PCA_Reconstructed,MEG_Beta,Pearson+mTE,mTE,5,5,1,1,FALSE
+PCA_Reconstructed,MEG_Beta,GCA+mTE,GCA,5,5,0,1,FALSE
+PCA_Reconstructed,MEG_Beta,GCA+mTE,mTE,5,5,1,1,FALSE
+PCA_Reconstructed,MEG_Beta,Pearson+GCA+mTE,Pearson,5,10,1,1,FALSE
+PCA_Reconstructed,MEG_Beta,Pearson+GCA+mTE,GCA,5,5,0,1,FALSE
+PCA_Reconstructed,MEG_Beta,Pearson+GCA+mTE,mTE,5,5,1,1,FALSE
+PCA_Reconstructed,MEG_Delta,Pearson+GCA,Pearson,15,0,0,0.25,FALSE
+PCA_Reconstructed,MEG_Delta,Pearson+GCA,GCA,15,15,3,1,FALSE
+PCA_Reconstructed,MEG_Delta,Pearson+mTE,Pearson,0,0,0,1,FALSE
+PCA_Reconstructed,MEG_Delta,Pearson+mTE,mTE,0,5,0,1,FALSE
+PCA_Reconstructed,MEG_Delta,GCA+mTE,GCA,0,15,0,0.25,FALSE
+PCA_Reconstructed,MEG_Delta,GCA+mTE,mTE,0,5,0,1,FALSE
+PCA_Reconstructed,MEG_Delta,Pearson+GCA+mTE,Pearson,0,0,0,1,FALSE
+PCA_Reconstructed,MEG_Delta,Pearson+GCA+mTE,GCA,0,15,0,0.25,FALSE
+PCA_Reconstructed,MEG_Delta,Pearson+GCA+mTE,mTE,0,5,0,1,FALSE
+PCA_Reconstructed,MEG_High-Gamma,Pearson+GCA,Pearson,5,5,0,1,FALSE
+PCA_Reconstructed,MEG_High-Gamma,Pearson+GCA,GCA,5,5,0,1,FALSE
+PCA_Reconstructed,MEG_High-Gamma,Pearson+mTE,Pearson,5,5,1,1,FALSE
+PCA_Reconstructed,MEG_High-Gamma,Pearson+mTE,mTE,5,5,0,1,FALSE
+PCA_Reconstructed,MEG_High-Gamma,GCA+mTE,GCA,5,5,0,1,FALSE
+PCA_Reconstructed,MEG_High-Gamma,GCA+mTE,mTE,5,5,1,1,FALSE
+PCA_Reconstructed,MEG_High-Gamma,Pearson+GCA+mTE,Pearson,5,5,0,1,FALSE
+PCA_Reconstructed,MEG_High-Gamma,Pearson+GCA+mTE,GCA,5,5,0,1,FALSE
+PCA_Reconstructed,MEG_High-Gamma,Pearson+GCA+mTE,mTE,5,5,1,1,FALSE
+PCA_Reconstructed,MEG_Low-Frequency,Pearson+GCA,Pearson,5,5,1,1,FALSE
+PCA_Reconstructed,MEG_Low-Frequency,Pearson+GCA,GCA,5,5,0,1,FALSE
+PCA_Reconstructed,MEG_Low-Frequency,Pearson+mTE,Pearson,15,5,1,0.625,FALSE
+PCA_Reconstructed,MEG_Low-Frequency,Pearson+mTE,mTE,15,15,1,1,FALSE
+PCA_Reconstructed,MEG_Low-Frequency,GCA+mTE,GCA,15,5,0,0.5,FALSE
+PCA_Reconstructed,MEG_Low-Frequency,GCA+mTE,mTE,15,15,1,1,FALSE
+PCA_Reconstructed,MEG_Low-Frequency,Pearson+GCA+mTE,Pearson,10,5,1,1,FALSE
+PCA_Reconstructed,MEG_Low-Frequency,Pearson+GCA+mTE,GCA,10,5,0,1,FALSE
+PCA_Reconstructed,MEG_Low-Frequency,Pearson+GCA+mTE,mTE,10,15,1,1,FALSE
+PCA_Reconstructed,MEG_Low-Gamma,Pearson+GCA,Pearson,5,0,0,1,FALSE
+PCA_Reconstructed,MEG_Low-Gamma,Pearson+GCA,GCA,5,10,0,1,FALSE
+PCA_Reconstructed,MEG_Low-Gamma,Pearson+mTE,Pearson,5,0,0,1,FALSE
+PCA_Reconstructed,MEG_Low-Gamma,Pearson+mTE,mTE,5,5,0,1,FALSE
+PCA_Reconstructed,MEG_Low-Gamma,GCA+mTE,GCA,15,10,1,1,FALSE
+PCA_Reconstructed,MEG_Low-Gamma,GCA+mTE,mTE,15,5,0,0.5,FALSE
+PCA_Reconstructed,MEG_Low-Gamma,Pearson+GCA+mTE,Pearson,5,0,0,1,FALSE
+PCA_Reconstructed,MEG_Low-Gamma,Pearson+GCA+mTE,GCA,5,10,1,1,FALSE
+PCA_Reconstructed,MEG_Low-Gamma,Pearson+GCA+mTE,mTE,5,5,0,1,FALSE
+PCA_Reconstructed,MEG_Theta,Pearson+GCA,Pearson,10,15,2,1,FALSE
+PCA_Reconstructed,MEG_Theta,Pearson+GCA,GCA,10,5,0,1,FALSE
+PCA_Reconstructed,MEG_Theta,Pearson+mTE,Pearson,0,15,0,0.25,FALSE
+PCA_Reconstructed,MEG_Theta,Pearson+mTE,mTE,0,5,0,1,FALSE
+PCA_Reconstructed,MEG_Theta,GCA+mTE,GCA,0,5,0,1,FALSE
+PCA_Reconstructed,MEG_Theta,GCA+mTE,mTE,0,5,0,1,FALSE
+PCA_Reconstructed,MEG_Theta,Pearson+GCA+mTE,Pearson,20,15,3,1,FALSE
+PCA_Reconstructed,MEG_Theta,Pearson+GCA+mTE,GCA,20,5,1,0.375,FALSE
+PCA_Reconstructed,MEG_Theta,Pearson+GCA+mTE,mTE,20,5,0,0.25,FALSE
+PCA_Reconstructed,MEG_Wide-band,Pearson+GCA,Pearson,15,10,2,1,FALSE
+PCA_Reconstructed,MEG_Wide-band,Pearson+GCA,GCA,15,35,0,0.125,FALSE
+PCA_Reconstructed,MEG_Wide-band,Pearson+mTE,Pearson,10,10,2,1,FALSE
+PCA_Reconstructed,MEG_Wide-band,Pearson+mTE,mTE,10,5,1,1,FALSE
+PCA_Reconstructed,MEG_Wide-band,GCA+mTE,GCA,5,35,0,0.03125,TRUE
+PCA_Reconstructed,MEG_Wide-band,GCA+mTE,mTE,5,5,1,1,FALSE
+PCA_Reconstructed,MEG_Wide-band,Pearson+GCA+mTE,Pearson,10,10,2,1,FALSE
+PCA_Reconstructed,MEG_Wide-band,Pearson+GCA+mTE,GCA,10,35,1,0.125,FALSE
+PCA_Reconstructed,MEG_Wide-band,Pearson+GCA+mTE,mTE,10,5,1,1,FALSE
+PCA_Reconstructed,fMRI + MEG_Aperiodic-VMD,Pearson+GCA,Pearson,25,75,1,0.006347656,TRUE
+PCA_Reconstructed,fMRI + MEG_Aperiodic-VMD,Pearson+GCA,GCA,25,50,1,0.125,FALSE
+PCA_Reconstructed,fMRI + MEG_Aperiodic-VMD,Pearson+mTE,Pearson,45,75,0,0.03125,TRUE
+PCA_Reconstructed,fMRI + MEG_Aperiodic-VMD,Pearson+mTE,mTE,45,5,0,0.0078125,TRUE
+PCA_Reconstructed,fMRI + MEG_Aperiodic-VMD,GCA+mTE,GCA,30,50,0,0.125,FALSE
+PCA_Reconstructed,fMRI + MEG_Aperiodic-VMD,GCA+mTE,mTE,30,5,0,0.0625,FALSE
+PCA_Reconstructed,fMRI + MEG_Aperiodic-VMD,Pearson+GCA+mTE,Pearson,35,75,1,0.021484375,TRUE
+PCA_Reconstructed,fMRI + MEG_Aperiodic-VMD,Pearson+GCA+mTE,GCA,35,50,1,0.375,FALSE
+PCA_Reconstructed,fMRI + MEG_Aperiodic-VMD,Pearson+GCA+mTE,mTE,35,5,0,0.03125,TRUE
+PCA_Reconstructed,MEG_All_Bands,Pearson+GCA,Pearson,40,30,2,0.6875,FALSE
+PCA_Reconstructed,MEG_All_Bands,Pearson+GCA,GCA,40,65,2,0.1796875,FALSE
+PCA_Reconstructed,MEG_All_Bands,Pearson+mTE,Pearson,25,30,2,1,FALSE
+PCA_Reconstructed,MEG_All_Bands,Pearson+mTE,mTE,25,5,0,0.125,FALSE
+PCA_Reconstructed,MEG_All_Bands,GCA+mTE,GCA,35,65,0,0.03125,TRUE
+PCA_Reconstructed,MEG_All_Bands,GCA+mTE,mTE,35,5,0,0.03125,TRUE
+PCA_Reconstructed,MEG_All_Bands,Pearson+GCA+mTE,Pearson,25,30,2,1,FALSE
+PCA_Reconstructed,MEG_All_Bands,Pearson+GCA+mTE,GCA,25,65,0,0.0078125,TRUE
+PCA_Reconstructed,MEG_All_Bands,Pearson+GCA+mTE,mTE,25,5,0,0.125,FALSE
+PCA_Reconstructed,fMRI + MEG_All_Bands,Pearson+GCA,Pearson,55,50,4,1,FALSE
+PCA_Reconstructed,fMRI + MEG_All_Bands,Pearson+GCA,GCA,55,80,0,0.0625,FALSE
+PCA_Reconstructed,fMRI + MEG_All_Bands,Pearson+mTE,Pearson,65,50,3,0.5078125,FALSE
+PCA_Reconstructed,fMRI + MEG_All_Bands,Pearson+mTE,mTE,65,5,0,0.000488281,TRUE
+PCA_Reconstructed,fMRI + MEG_All_Bands,GCA+mTE,GCA,45,80,0,0.015625,TRUE
+PCA_Reconstructed,fMRI + MEG_All_Bands,GCA+mTE,mTE,45,5,0,0.0078125,TRUE
+PCA_Reconstructed,fMRI + MEG_All_Bands,Pearson+GCA+mTE,Pearson,45,50,4,1,FALSE
+PCA_Reconstructed,fMRI + MEG_All_Bands,Pearson+GCA+mTE,GCA,45,80,0,0.015625,TRUE
+PCA_Reconstructed,fMRI + MEG_All_Bands,Pearson+GCA+mTE,mTE,45,5,0,0.0078125,TRUE
+True_Max_Flow,fMRI,Pearson+GCA,Pearson,50,60,1,0.625,FALSE
+True_Max_Flow,fMRI,Pearson+GCA,GCA,50,30,3,0.34375,FALSE
+True_Max_Flow,fMRI,Pearson+mTE,Pearson,50,60,2,0.6875,FALSE
+True_Max_Flow,fMRI,Pearson+mTE,mTE,50,35,2,0.453125,FALSE
+True_Max_Flow,fMRI,GCA+mTE,GCA,10,30,1,0.21875,FALSE
+True_Max_Flow,fMRI,GCA+mTE,mTE,10,35,0,0.0625,FALSE
+True_Max_Flow,fMRI,Pearson+GCA+mTE,Pearson,30,60,2,0.109375,FALSE
+True_Max_Flow,fMRI,Pearson+GCA+mTE,GCA,30,30,3,1,FALSE
+True_Max_Flow,fMRI,Pearson+GCA+mTE,mTE,30,35,2,1,FALSE
+True_Max_Flow,MEG_Alpha,Pearson+GCA,Pearson,15,15,1,1,FALSE
+True_Max_Flow,MEG_Alpha,Pearson+GCA,GCA,15,5,1,0.625,FALSE
+True_Max_Flow,MEG_Alpha,Pearson+mTE,Pearson,10,15,1,1,FALSE
+True_Max_Flow,MEG_Alpha,Pearson+mTE,mTE,10,10,2,1,FALSE
+True_Max_Flow,MEG_Alpha,GCA+mTE,GCA,15,5,0,0.5,FALSE
+True_Max_Flow,MEG_Alpha,GCA+mTE,mTE,15,10,2,1,FALSE
+True_Max_Flow,MEG_Alpha,Pearson+GCA+mTE,Pearson,10,15,1,1,FALSE
+True_Max_Flow,MEG_Alpha,Pearson+GCA+mTE,GCA,10,5,1,1,FALSE
+True_Max_Flow,MEG_Alpha,Pearson+GCA+mTE,mTE,10,10,2,1,FALSE
+True_Max_Flow,MEG_Aperiodic-VMD,Pearson+GCA,Pearson,55,60,4,1,FALSE
+True_Max_Flow,MEG_Aperiodic-VMD,Pearson+GCA,GCA,55,75,1,0.21875,FALSE
+True_Max_Flow,MEG_Aperiodic-VMD,Pearson+mTE,Pearson,35,60,2,0.1796875,FALSE
+True_Max_Flow,MEG_Aperiodic-VMD,Pearson+mTE,mTE,35,10,1,0.125,FALSE
+True_Max_Flow,MEG_Aperiodic-VMD,GCA+mTE,GCA,50,75,1,0.125,FALSE
+True_Max_Flow,MEG_Aperiodic-VMD,GCA+mTE,mTE,50,10,1,0.021484375,TRUE
+True_Max_Flow,MEG_Aperiodic-VMD,Pearson+GCA+mTE,Pearson,55,60,4,1,FALSE
+True_Max_Flow,MEG_Aperiodic-VMD,Pearson+GCA+mTE,GCA,55,75,2,0.2890625,FALSE
+True_Max_Flow,MEG_Aperiodic-VMD,Pearson+GCA+mTE,mTE,55,10,1,0.01171875,TRUE
+True_Max_Flow,MEG_Beta,Pearson+GCA,Pearson,5,0,0,1,FALSE
+True_Max_Flow,MEG_Beta,Pearson+GCA,GCA,5,15,1,0.625,FALSE
+True_Max_Flow,MEG_Beta,Pearson+mTE,Pearson,5,0,0,1,FALSE
+True_Max_Flow,MEG_Beta,Pearson+mTE,mTE,5,10,1,1,FALSE
+True_Max_Flow,MEG_Beta,GCA+mTE,GCA,15,15,2,1,FALSE
+True_Max_Flow,MEG_Beta,GCA+mTE,mTE,15,10,2,1,FALSE
+True_Max_Flow,MEG_Beta,Pearson+GCA+mTE,Pearson,0,0,0,1,FALSE
+True_Max_Flow,MEG_Beta,Pearson+GCA+mTE,GCA,0,15,0,0.25,FALSE
+True_Max_Flow,MEG_Beta,Pearson+GCA+mTE,mTE,0,10,0,0.5,FALSE
+True_Max_Flow,MEG_Delta,Pearson+GCA,Pearson,5,10,1,1,FALSE
+True_Max_Flow,MEG_Delta,Pearson+GCA,GCA,5,15,0,0.5,FALSE
+True_Max_Flow,MEG_Delta,Pearson+mTE,Pearson,0,10,0,0.5,FALSE
+True_Max_Flow,MEG_Delta,Pearson+mTE,mTE,0,0,0,1,FALSE
+True_Max_Flow,MEG_Delta,GCA+mTE,GCA,10,15,0,1,FALSE
+True_Max_Flow,MEG_Delta,GCA+mTE,mTE,10,0,0,0.5,FALSE
+True_Max_Flow,MEG_Delta,Pearson+GCA+mTE,Pearson,0,10,0,0.5,FALSE
+True_Max_Flow,MEG_Delta,Pearson+GCA+mTE,GCA,0,15,0,0.25,FALSE
+True_Max_Flow,MEG_Delta,Pearson+GCA+mTE,mTE,0,0,0,1,FALSE
+True_Max_Flow,MEG_High-Gamma,Pearson+GCA,Pearson,45,5,0,0.0078125,TRUE
+True_Max_Flow,MEG_High-Gamma,Pearson+GCA,GCA,45,55,2,0.6875,FALSE
+True_Max_Flow,MEG_High-Gamma,Pearson+mTE,Pearson,5,5,1,1,FALSE
+True_Max_Flow,MEG_High-Gamma,Pearson+mTE,mTE,5,0,0,1,FALSE
+True_Max_Flow,MEG_High-Gamma,GCA+mTE,GCA,20,55,0,0.015625,TRUE
+True_Max_Flow,MEG_High-Gamma,GCA+mTE,mTE,20,0,0,0.125,FALSE
+True_Max_Flow,MEG_High-Gamma,Pearson+GCA+mTE,Pearson,25,5,1,0.21875,FALSE
+True_Max_Flow,MEG_High-Gamma,Pearson+GCA+mTE,GCA,25,55,0,0.03125,TRUE
+True_Max_Flow,MEG_High-Gamma,Pearson+GCA+mTE,mTE,25,0,0,0.0625,FALSE
+True_Max_Flow,MEG_Low-Frequency,Pearson+GCA,Pearson,15,5,0,0.5,FALSE
+True_Max_Flow,MEG_Low-Frequency,Pearson+GCA,GCA,15,0,0,0.25,FALSE
+True_Max_Flow,MEG_Low-Frequency,Pearson+mTE,Pearson,5,5,1,1,FALSE
+True_Max_Flow,MEG_Low-Frequency,Pearson+mTE,mTE,5,5,1,1,FALSE
+True_Max_Flow,MEG_Low-Frequency,GCA+mTE,GCA,5,0,0,1,FALSE
+True_Max_Flow,MEG_Low-Frequency,GCA+mTE,mTE,5,5,1,1,FALSE
+True_Max_Flow,MEG_Low-Frequency,Pearson+GCA+mTE,Pearson,5,5,1,1,FALSE
+True_Max_Flow,MEG_Low-Frequency,Pearson+GCA+mTE,GCA,5,0,0,1,FALSE
+True_Max_Flow,MEG_Low-Frequency,Pearson+GCA+mTE,mTE,5,5,1,1,FALSE
+True_Max_Flow,MEG_Low-Gamma,Pearson+GCA,Pearson,45,0,0,0.00390625,TRUE
+True_Max_Flow,MEG_Low-Gamma,Pearson+GCA,GCA,45,70,1,0.125,FALSE
+True_Max_Flow,MEG_Low-Gamma,Pearson+mTE,Pearson,0,0,0,1,FALSE
+True_Max_Flow,MEG_Low-Gamma,Pearson+mTE,mTE,0,5,0,1,FALSE
+True_Max_Flow,MEG_Low-Gamma,GCA+mTE,GCA,15,70,0,0.000976563,TRUE
+True_Max_Flow,MEG_Low-Gamma,GCA+mTE,mTE,15,5,1,0.625,FALSE
+True_Max_Flow,MEG_Low-Gamma,Pearson+GCA+mTE,Pearson,10,0,0,0.5,FALSE
+True_Max_Flow,MEG_Low-Gamma,Pearson+GCA+mTE,GCA,10,70,0,0.000488281,TRUE
+True_Max_Flow,MEG_Low-Gamma,Pearson+GCA+mTE,mTE,10,5,1,1,FALSE
+True_Max_Flow,MEG_Theta,Pearson+GCA,Pearson,0,5,0,1,FALSE
+True_Max_Flow,MEG_Theta,Pearson+GCA,GCA,0,5,0,1,FALSE
+True_Max_Flow,MEG_Theta,Pearson+mTE,Pearson,5,5,0,1,FALSE
+True_Max_Flow,MEG_Theta,Pearson+mTE,mTE,5,5,1,1,FALSE
+True_Max_Flow,MEG_Theta,GCA+mTE,GCA,15,5,0,0.5,FALSE
+True_Max_Flow,MEG_Theta,GCA+mTE,mTE,15,5,0,0.5,FALSE
+True_Max_Flow,MEG_Theta,Pearson+GCA+mTE,Pearson,0,5,0,1,FALSE
+True_Max_Flow,MEG_Theta,Pearson+GCA+mTE,GCA,0,5,0,1,FALSE
+True_Max_Flow,MEG_Theta,Pearson+GCA+mTE,mTE,0,5,0,1,FALSE
+True_Max_Flow,MEG_Wide-band,Pearson+GCA,Pearson,25,10,2,0.453125,FALSE
+True_Max_Flow,MEG_Wide-band,Pearson+GCA,GCA,25,70,0,0.00390625,TRUE
+True_Max_Flow,MEG_Wide-band,Pearson+mTE,Pearson,10,10,0,1,FALSE
+True_Max_Flow,MEG_Wide-band,Pearson+mTE,mTE,10,10,2,1,FALSE
+True_Max_Flow,MEG_Wide-band,GCA+mTE,GCA,55,70,1,0.375,FALSE
+True_Max_Flow,MEG_Wide-band,GCA+mTE,mTE,55,10,0,0.00390625,TRUE
+True_Max_Flow,MEG_Wide-band,Pearson+GCA+mTE,Pearson,65,10,1,0.003417969,TRUE
+True_Max_Flow,MEG_Wide-band,Pearson+GCA+mTE,GCA,65,70,2,1,FALSE
+True_Max_Flow,MEG_Wide-band,Pearson+GCA+mTE,mTE,65,10,0,0.000976563,TRUE
+True_Max_Flow,fMRI + MEG_Aperiodic-VMD,Pearson+GCA,Pearson,70,75,3,1,FALSE
+True_Max_Flow,fMRI + MEG_Aperiodic-VMD,Pearson+GCA,GCA,70,40,0,0.03125,TRUE
+True_Max_Flow,fMRI + MEG_Aperiodic-VMD,Pearson+mTE,Pearson,45,75,0,0.03125,TRUE
+True_Max_Flow,fMRI + MEG_Aperiodic-VMD,Pearson+mTE,mTE,45,45,4,1,FALSE
+True_Max_Flow,fMRI + MEG_Aperiodic-VMD,GCA+mTE,GCA,5,40,0,0.015625,TRUE
+True_Max_Flow,fMRI + MEG_Aperiodic-VMD,GCA+mTE,mTE,5,45,0,0.0078125,TRUE
+True_Max_Flow,fMRI + MEG_Aperiodic-VMD,Pearson+GCA+mTE,Pearson,50,75,2,0.1796875,FALSE
+True_Max_Flow,fMRI + MEG_Aperiodic-VMD,Pearson+GCA+mTE,GCA,50,40,2,0.6875,FALSE
+True_Max_Flow,fMRI + MEG_Aperiodic-VMD,Pearson+GCA+mTE,mTE,50,45,3,1,FALSE
+True_Max_Flow,MEG_All_Bands,Pearson+GCA,Pearson,70,10,1,0.001831055,TRUE
+True_Max_Flow,MEG_All_Bands,Pearson+GCA,GCA,70,70,1,1,FALSE
+True_Max_Flow,MEG_All_Bands,Pearson+mTE,Pearson,10,10,2,1,FALSE
+True_Max_Flow,MEG_All_Bands,Pearson+mTE,mTE,10,20,2,0.6875,FALSE
+True_Max_Flow,MEG_All_Bands,GCA+mTE,GCA,20,70,1,0.006347656,TRUE
+True_Max_Flow,MEG_All_Bands,GCA+mTE,mTE,20,20,3,1,FALSE
+True_Max_Flow,MEG_All_Bands,Pearson+GCA+mTE,Pearson,20,10,2,0.6875,FALSE
+True_Max_Flow,MEG_All_Bands,Pearson+GCA+mTE,GCA,20,70,1,0.006347656,TRUE
+True_Max_Flow,MEG_All_Bands,Pearson+GCA+mTE,mTE,20,20,4,1,FALSE
+True_Max_Flow,fMRI + MEG_All_Bands,Pearson+GCA,Pearson,80,70,3,0.7265625,FALSE
+True_Max_Flow,fMRI + MEG_All_Bands,Pearson+GCA,GCA,80,75,1,1,FALSE
+True_Max_Flow,fMRI + MEG_All_Bands,Pearson+mTE,Pearson,25,70,0,0.00390625,TRUE
+True_Max_Flow,fMRI + MEG_All_Bands,Pearson+mTE,mTE,25,30,4,1,FALSE
+True_Max_Flow,fMRI + MEG_All_Bands,GCA+mTE,GCA,30,75,0,0.00390625,TRUE
+True_Max_Flow,fMRI + MEG_All_Bands,GCA+mTE,mTE,30,30,3,1,FALSE
+True_Max_Flow,fMRI + MEG_All_Bands,Pearson+GCA+mTE,Pearson,65,70,2,1,FALSE
+True_Max_Flow,fMRI + MEG_All_Bands,Pearson+GCA+mTE,GCA,65,75,2,0.6875,FALSE
+True_Max_Flow,fMRI + MEG_All_Bands,Pearson+GCA+mTE,mTE,65,30,0,0.015625,TRUE

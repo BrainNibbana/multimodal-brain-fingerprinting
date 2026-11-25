@@ -1,0 +1,11 @@
+﻿group,recordings,finite_targets,missing_targets,finite_percent,group_label
+fMRI,80,12789,491,96.30271084337349,fMRI
+MEG_rmegpreproc_Low-Frequency,60,3467,6493,34.80923694779116,MEG Low-Frequency
+MEG_rmegpreproc_Delta,60,856,9104,8.594377510040161,MEG Delta
+MEG_rmegpreproc_Theta,60,694,9266,6.967871485943775,MEG Theta
+MEG_rmegpreproc_Alpha,60,561,9399,5.632530120481928,MEG Alpha
+MEG_rmegpreproc_Beta,60,567,9393,5.692771084337349,MEG Beta
+MEG_rmegpreproc_Low-Gamma,60,9023,937,90.59236947791165,MEG Low-Gamma
+MEG_rmegpreproc_High-Gamma,60,8002,1958,80.34136546184739,MEG High-Gamma
+MEG_rmegpreproc_Wide-band,60,616,9344,6.184738955823293,MEG Wide-band
+MEG_rmegpreproc_Aperiodic-VMD,60,1578,8382,15.843373493975903,MEG Aperiodic-VMD

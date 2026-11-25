@@ -1,0 +1,456 @@
+﻿Strategy,Modality,Method_Combination,Fusion_Level,Success_Rate,Permutation_P_Value,Strategy_Original
+Raw Edges,fMRI,Pearson,1-Method,85,0.000999001,Raw_Edges
+Raw Edges,fMRI,GCA,1-Method,90,0.000999001,Raw_Edges
+Raw Edges,fMRI,mTE,1-Method,90,0.000999001,Raw_Edges
+Raw Edges,fMRI,Pearson+GCA,2-Method,100,0.000999001,Raw_Edges
+Raw Edges,fMRI,Pearson+mTE,2-Method,100,0.000999001,Raw_Edges
+Raw Edges,fMRI,GCA+mTE,2-Method,95,0.000999001,Raw_Edges
+Raw Edges,fMRI,Pearson+GCA+mTE,3-Method,100,0.000999001,Raw_Edges
+Raw Edges,MEG_Alpha,Pearson,1-Method,10,0.284715285,Raw_Edges
+Raw Edges,MEG_Alpha,GCA,1-Method,25,0.000999001,Raw_Edges
+Raw Edges,MEG_Alpha,mTE,1-Method,15,0.021978022,Raw_Edges
+Raw Edges,MEG_Alpha,Pearson+GCA,2-Method,5,0.636363636,Raw_Edges
+Raw Edges,MEG_Alpha,Pearson+mTE,2-Method,15,0.075924076,Raw_Edges
+Raw Edges,MEG_Alpha,GCA+mTE,2-Method,25,0.005994006,Raw_Edges
+Raw Edges,MEG_Alpha,Pearson+GCA+mTE,3-Method,10,0.243756244,Raw_Edges
+Raw Edges,MEG_Aperiodic-VMD,Pearson,1-Method,90,0.000999001,Raw_Edges
+Raw Edges,MEG_Aperiodic-VMD,GCA,1-Method,95,0.000999001,Raw_Edges
+Raw Edges,MEG_Aperiodic-VMD,mTE,1-Method,0,1.0,Raw_Edges
+Raw Edges,MEG_Aperiodic-VMD,Pearson+GCA,2-Method,100,0.000999001,Raw_Edges
+Raw Edges,MEG_Aperiodic-VMD,Pearson+mTE,2-Method,85,0.000999001,Raw_Edges
+Raw Edges,MEG_Aperiodic-VMD,GCA+mTE,2-Method,90,0.000999001,Raw_Edges
+Raw Edges,MEG_Aperiodic-VMD,Pearson+GCA+mTE,3-Method,100,0.000999001,Raw_Edges
+Raw Edges,MEG_Beta,Pearson,1-Method,0,1.0,Raw_Edges
+Raw Edges,MEG_Beta,GCA,1-Method,40,0.000999001,Raw_Edges
+Raw Edges,MEG_Beta,mTE,1-Method,5,0.953046953,Raw_Edges
+Raw Edges,MEG_Beta,Pearson+GCA,2-Method,25,0.001998002,Raw_Edges
+Raw Edges,MEG_Beta,Pearson+mTE,2-Method,0,1.0,Raw_Edges
+Raw Edges,MEG_Beta,GCA+mTE,2-Method,35,0.000999001,Raw_Edges
+Raw Edges,MEG_Beta,Pearson+GCA+mTE,3-Method,25,0.001998002,Raw_Edges
+Raw Edges,MEG_Delta,Pearson,1-Method,0,1.0,Raw_Edges
+Raw Edges,MEG_Delta,GCA,1-Method,10,0.271728272,Raw_Edges
+Raw Edges,MEG_Delta,mTE,1-Method,5,0.639360639,Raw_Edges
+Raw Edges,MEG_Delta,Pearson+GCA,2-Method,10,0.271728272,Raw_Edges
+Raw Edges,MEG_Delta,Pearson+mTE,2-Method,0,1.0,Raw_Edges
+Raw Edges,MEG_Delta,GCA+mTE,2-Method,5,0.632367632,Raw_Edges
+Raw Edges,MEG_Delta,Pearson+GCA+mTE,3-Method,0,1.0,Raw_Edges
+Raw Edges,MEG_High-Gamma,Pearson,1-Method,5,0.632367632,Raw_Edges
+Raw Edges,MEG_High-Gamma,GCA,1-Method,90,0.000999001,Raw_Edges
+Raw Edges,MEG_High-Gamma,mTE,1-Method,10,0.28971029,Raw_Edges
+Raw Edges,MEG_High-Gamma,Pearson+GCA,2-Method,90,0.000999001,Raw_Edges
+Raw Edges,MEG_High-Gamma,Pearson+mTE,2-Method,10,0.241758242,Raw_Edges
+Raw Edges,MEG_High-Gamma,GCA+mTE,2-Method,85,0.000999001,Raw_Edges
+Raw Edges,MEG_High-Gamma,Pearson+GCA+mTE,3-Method,85,0.000999001,Raw_Edges
+Raw Edges,MEG_Low-Frequency,Pearson,1-Method,0,1.0,Raw_Edges
+Raw Edges,MEG_Low-Frequency,GCA,1-Method,15,0.077922078,Raw_Edges
+Raw Edges,MEG_Low-Frequency,mTE,1-Method,15,0.084915085,Raw_Edges
+Raw Edges,MEG_Low-Frequency,Pearson+GCA,2-Method,10,0.245754246,Raw_Edges
+Raw Edges,MEG_Low-Frequency,Pearson+mTE,2-Method,10,0.287712288,Raw_Edges
+Raw Edges,MEG_Low-Frequency,GCA+mTE,2-Method,15,0.070929071,Raw_Edges
+Raw Edges,MEG_Low-Frequency,Pearson+GCA+mTE,3-Method,15,0.070929071,Raw_Edges
+Raw Edges,MEG_Low-Gamma,Pearson,1-Method,0,1.0,Raw_Edges
+Raw Edges,MEG_Low-Gamma,GCA,1-Method,90,0.000999001,Raw_Edges
+Raw Edges,MEG_Low-Gamma,mTE,1-Method,40,0.000999001,Raw_Edges
+Raw Edges,MEG_Low-Gamma,Pearson+GCA,2-Method,85,0.000999001,Raw_Edges
+Raw Edges,MEG_Low-Gamma,Pearson+mTE,2-Method,25,0.001998002,Raw_Edges
+Raw Edges,MEG_Low-Gamma,GCA+mTE,2-Method,95,0.000999001,Raw_Edges
+Raw Edges,MEG_Low-Gamma,Pearson+GCA+mTE,3-Method,95,0.000999001,Raw_Edges
+Raw Edges,MEG_Theta,Pearson,1-Method,10,0.233766234,Raw_Edges
+Raw Edges,MEG_Theta,GCA,1-Method,50,0.000999001,Raw_Edges
+Raw Edges,MEG_Theta,mTE,1-Method,0,1.0,Raw_Edges
+Raw Edges,MEG_Theta,Pearson+GCA,2-Method,50,0.000999001,Raw_Edges
+Raw Edges,MEG_Theta,Pearson+mTE,2-Method,0,1.0,Raw_Edges
+Raw Edges,MEG_Theta,GCA+mTE,2-Method,45,0.000999001,Raw_Edges
+Raw Edges,MEG_Theta,Pearson+GCA+mTE,3-Method,30,0.001998002,Raw_Edges
+Raw Edges,MEG_Wide-band,Pearson,1-Method,5,0.641358641,Raw_Edges
+Raw Edges,MEG_Wide-band,GCA,1-Method,95,0.000999001,Raw_Edges
+Raw Edges,MEG_Wide-band,mTE,1-Method,5,0.69030969,Raw_Edges
+Raw Edges,MEG_Wide-band,Pearson+GCA,2-Method,95,0.000999001,Raw_Edges
+Raw Edges,MEG_Wide-band,Pearson+mTE,2-Method,10,0.260739261,Raw_Edges
+Raw Edges,MEG_Wide-band,GCA+mTE,2-Method,90,0.000999001,Raw_Edges
+Raw Edges,MEG_Wide-band,Pearson+GCA+mTE,3-Method,90,0.000999001,Raw_Edges
+Raw Edges,fMRI + MEG_Aperiodic-VMD,Pearson,Cross-Modal 1-Method,95,0.000999001,Raw_Edges
+Raw Edges,fMRI + MEG_Aperiodic-VMD,GCA,Cross-Modal 1-Method,100,0.000999001,Raw_Edges
+Raw Edges,fMRI + MEG_Aperiodic-VMD,mTE,Cross-Modal 1-Method,90,0.000999001,Raw_Edges
+Raw Edges,fMRI + MEG_Aperiodic-VMD,Pearson+GCA,Cross-Modal 2-Method,100,0.000999001,Raw_Edges
+Raw Edges,fMRI + MEG_Aperiodic-VMD,Pearson+mTE,Cross-Modal 2-Method,100,0.000999001,Raw_Edges
+Raw Edges,fMRI + MEG_Aperiodic-VMD,GCA+mTE,Cross-Modal 2-Method,100,0.000999001,Raw_Edges
+Raw Edges,fMRI + MEG_Aperiodic-VMD,Pearson+GCA+mTE,Cross-Modal 3-Method,100,0.000999001,Raw_Edges
+Raw Edges,MEG_All_Bands,Pearson,Cross-Modal 1-Method,60,0.000999001,Raw_Edges
+Raw Edges,MEG_All_Bands,GCA,Cross-Modal 1-Method,95,0.000999001,Raw_Edges
+Raw Edges,MEG_All_Bands,mTE,Cross-Modal 1-Method,10,0.274725275,Raw_Edges
+Raw Edges,MEG_All_Bands,Pearson+GCA,Cross-Modal 2-Method,95,0.000999001,Raw_Edges
+Raw Edges,MEG_All_Bands,Pearson+mTE,Cross-Modal 2-Method,45,0.000999001,Raw_Edges
+Raw Edges,MEG_All_Bands,GCA+mTE,Cross-Modal 2-Method,95,0.000999001,Raw_Edges
+Raw Edges,MEG_All_Bands,Pearson+GCA+mTE,Cross-Modal 3-Method,95,0.000999001,Raw_Edges
+Raw Edges,fMRI + MEG_All_Bands,Pearson,Cross-Modal 1-Method,95,0.000999001,Raw_Edges
+Raw Edges,fMRI + MEG_All_Bands,GCA,Cross-Modal 1-Method,100,0.000999001,Raw_Edges
+Raw Edges,fMRI + MEG_All_Bands,mTE,Cross-Modal 1-Method,55,0.000999001,Raw_Edges
+Raw Edges,fMRI + MEG_All_Bands,Pearson+GCA,Cross-Modal 2-Method,100,0.000999001,Raw_Edges
+Raw Edges,fMRI + MEG_All_Bands,Pearson+mTE,Cross-Modal 2-Method,80,0.000999001,Raw_Edges
+Raw Edges,fMRI + MEG_All_Bands,GCA+mTE,Cross-Modal 2-Method,100,0.000999001,Raw_Edges
+Raw Edges,fMRI + MEG_All_Bands,Pearson+GCA+mTE,Cross-Modal 3-Method,100,0.000999001,Raw_Edges
+Mean-Absolute-Weight Edge Selection,fMRI,Pearson,1-Method,80,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,fMRI,GCA,1-Method,70,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,fMRI,mTE,1-Method,95,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,fMRI,Pearson+GCA,2-Method,80,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,fMRI,Pearson+mTE,2-Method,100,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,fMRI,GCA+mTE,2-Method,95,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,fMRI,Pearson+GCA+mTE,3-Method,100,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Alpha,Pearson,1-Method,0,1.0,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Alpha,GCA,1-Method,5,0.646353646,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Alpha,mTE,1-Method,15,0.023976024,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Alpha,Pearson+GCA,2-Method,15,0.061938062,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Alpha,Pearson+mTE,2-Method,15,0.078921079,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Alpha,GCA+mTE,2-Method,20,0.014985015,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Alpha,Pearson+GCA+mTE,3-Method,20,0.018981019,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Aperiodic-VMD,Pearson,1-Method,90,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Aperiodic-VMD,GCA,1-Method,95,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Aperiodic-VMD,mTE,1-Method,0,1.0,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Aperiodic-VMD,Pearson+GCA,2-Method,100,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Aperiodic-VMD,Pearson+mTE,2-Method,55,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Aperiodic-VMD,GCA+mTE,2-Method,90,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Aperiodic-VMD,Pearson+GCA+mTE,3-Method,100,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Beta,Pearson,1-Method,0,1.0,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Beta,GCA,1-Method,45,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Beta,mTE,1-Method,5,0.948051948,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Beta,Pearson+GCA,2-Method,30,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Beta,Pearson+mTE,2-Method,5,0.637362637,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Beta,GCA+mTE,2-Method,30,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Beta,Pearson+GCA+mTE,3-Method,25,0.002997003,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Delta,Pearson,1-Method,10,0.274725275,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Delta,GCA,1-Method,10,0.284715285,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Delta,mTE,1-Method,5,0.634365634,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Delta,Pearson+GCA,2-Method,5,0.655344655,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Delta,Pearson+mTE,2-Method,5,0.639360639,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Delta,GCA+mTE,2-Method,5,0.643356643,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Delta,Pearson+GCA+mTE,3-Method,5,0.618381618,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_High-Gamma,Pearson,1-Method,5,0.612387612,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_High-Gamma,GCA,1-Method,90,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_High-Gamma,mTE,1-Method,10,0.266733267,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_High-Gamma,Pearson+GCA,2-Method,90,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_High-Gamma,Pearson+mTE,2-Method,15,0.077922078,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_High-Gamma,GCA+mTE,2-Method,80,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_High-Gamma,Pearson+GCA+mTE,3-Method,80,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Low-Frequency,Pearson,1-Method,5,0.632367632,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Low-Frequency,GCA,1-Method,5,0.659340659,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Low-Frequency,mTE,1-Method,15,0.077922078,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Low-Frequency,Pearson+GCA,2-Method,0,1.0,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Low-Frequency,Pearson+mTE,2-Method,10,0.276723277,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Low-Frequency,GCA+mTE,2-Method,15,0.071928072,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Low-Frequency,Pearson+GCA+mTE,3-Method,10,0.262737263,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Low-Gamma,Pearson,1-Method,0,1.0,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Low-Gamma,GCA,1-Method,95,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Low-Gamma,mTE,1-Method,30,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Low-Gamma,Pearson+GCA,2-Method,90,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Low-Gamma,Pearson+mTE,2-Method,20,0.008991009,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Low-Gamma,GCA+mTE,2-Method,90,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Low-Gamma,Pearson+GCA+mTE,3-Method,80,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Theta,Pearson,1-Method,0,1.0,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Theta,GCA,1-Method,50,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Theta,mTE,1-Method,0,1.0,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Theta,Pearson+GCA,2-Method,40,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Theta,Pearson+mTE,2-Method,5,0.632367632,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Theta,GCA+mTE,2-Method,35,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Theta,Pearson+GCA+mTE,3-Method,35,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Wide-band,Pearson,1-Method,0,1.0,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Wide-band,GCA,1-Method,95,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Wide-band,mTE,1-Method,5,0.682317682,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Wide-band,Pearson+GCA,2-Method,100,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Wide-band,Pearson+mTE,2-Method,5,0.649350649,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Wide-band,GCA+mTE,2-Method,90,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_Wide-band,Pearson+GCA+mTE,3-Method,80,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,fMRI + MEG_Aperiodic-VMD,Pearson,Cross-Modal 1-Method,95,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,fMRI + MEG_Aperiodic-VMD,GCA,Cross-Modal 1-Method,100,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,fMRI + MEG_Aperiodic-VMD,mTE,Cross-Modal 1-Method,70,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,fMRI + MEG_Aperiodic-VMD,Pearson+GCA,Cross-Modal 2-Method,100,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,fMRI + MEG_Aperiodic-VMD,Pearson+mTE,Cross-Modal 2-Method,95,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,fMRI + MEG_Aperiodic-VMD,GCA+mTE,Cross-Modal 2-Method,100,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,fMRI + MEG_Aperiodic-VMD,Pearson+GCA+mTE,Cross-Modal 3-Method,100,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_All_Bands,Pearson,Cross-Modal 1-Method,60,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_All_Bands,GCA,Cross-Modal 1-Method,100,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_All_Bands,mTE,Cross-Modal 1-Method,10,0.24975025,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_All_Bands,Pearson+GCA,Cross-Modal 2-Method,95,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_All_Bands,Pearson+mTE,Cross-Modal 2-Method,35,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_All_Bands,GCA+mTE,Cross-Modal 2-Method,95,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,MEG_All_Bands,Pearson+GCA+mTE,Cross-Modal 3-Method,90,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,fMRI + MEG_All_Bands,Pearson,Cross-Modal 1-Method,65,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,fMRI + MEG_All_Bands,GCA,Cross-Modal 1-Method,100,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,fMRI + MEG_All_Bands,mTE,Cross-Modal 1-Method,50,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,fMRI + MEG_All_Bands,Pearson+GCA,Cross-Modal 2-Method,100,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,fMRI + MEG_All_Bands,Pearson+mTE,Cross-Modal 2-Method,60,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,fMRI + MEG_All_Bands,GCA+mTE,Cross-Modal 2-Method,95,0.000999001,Sub_Network
+Mean-Absolute-Weight Edge Selection,fMRI + MEG_All_Bands,Pearson+GCA+mTE,Cross-Modal 3-Method,95,0.000999001,Sub_Network
+High-Variance Edge Selection,fMRI,Pearson,1-Method,85,0.000999001,DP_Enhanced
+High-Variance Edge Selection,fMRI,GCA,1-Method,90,0.000999001,DP_Enhanced
+High-Variance Edge Selection,fMRI,mTE,1-Method,90,0.000999001,DP_Enhanced
+High-Variance Edge Selection,fMRI,Pearson+GCA,2-Method,95,0.000999001,DP_Enhanced
+High-Variance Edge Selection,fMRI,Pearson+mTE,2-Method,95,0.000999001,DP_Enhanced
+High-Variance Edge Selection,fMRI,GCA+mTE,2-Method,95,0.000999001,DP_Enhanced
+High-Variance Edge Selection,fMRI,Pearson+GCA+mTE,3-Method,95,0.000999001,DP_Enhanced
+High-Variance Edge Selection,MEG_Alpha,Pearson,1-Method,0,1.0,DP_Enhanced
+High-Variance Edge Selection,MEG_Alpha,GCA,1-Method,10,0.251748252,DP_Enhanced
+High-Variance Edge Selection,MEG_Alpha,mTE,1-Method,15,0.018981019,DP_Enhanced
+High-Variance Edge Selection,MEG_Alpha,Pearson+GCA,2-Method,5,0.638361638,DP_Enhanced
+High-Variance Edge Selection,MEG_Alpha,Pearson+mTE,2-Method,10,0.261738262,DP_Enhanced
+High-Variance Edge Selection,MEG_Alpha,GCA+mTE,2-Method,20,0.011988012,DP_Enhanced
+High-Variance Edge Selection,MEG_Alpha,Pearson+GCA+mTE,3-Method,15,0.064935065,DP_Enhanced
+High-Variance Edge Selection,MEG_Aperiodic-VMD,Pearson,1-Method,80,0.000999001,DP_Enhanced
+High-Variance Edge Selection,MEG_Aperiodic-VMD,GCA,1-Method,95,0.000999001,DP_Enhanced
+High-Variance Edge Selection,MEG_Aperiodic-VMD,mTE,1-Method,0,1.0,DP_Enhanced
+High-Variance Edge Selection,MEG_Aperiodic-VMD,Pearson+GCA,2-Method,100,0.000999001,DP_Enhanced
+High-Variance Edge Selection,MEG_Aperiodic-VMD,Pearson+mTE,2-Method,45,0.000999001,DP_Enhanced
+High-Variance Edge Selection,MEG_Aperiodic-VMD,GCA+mTE,2-Method,80,0.000999001,DP_Enhanced
+High-Variance Edge Selection,MEG_Aperiodic-VMD,Pearson+GCA+mTE,3-Method,95,0.000999001,DP_Enhanced
+High-Variance Edge Selection,MEG_Beta,Pearson,1-Method,0,1.0,DP_Enhanced
+High-Variance Edge Selection,MEG_Beta,GCA,1-Method,35,0.000999001,DP_Enhanced
+High-Variance Edge Selection,MEG_Beta,mTE,1-Method,5,0.962037962,DP_Enhanced
+High-Variance Edge Selection,MEG_Beta,Pearson+GCA,2-Method,5,0.631368631,DP_Enhanced
+High-Variance Edge Selection,MEG_Beta,Pearson+mTE,2-Method,0,1.0,DP_Enhanced
+High-Variance Edge Selection,MEG_Beta,GCA+mTE,2-Method,30,0.000999001,DP_Enhanced
+High-Variance Edge Selection,MEG_Beta,Pearson+GCA+mTE,3-Method,15,0.071928072,DP_Enhanced
+High-Variance Edge Selection,MEG_Delta,Pearson,1-Method,10,0.271728272,DP_Enhanced
+High-Variance Edge Selection,MEG_Delta,GCA,1-Method,10,0.263736264,DP_Enhanced
+High-Variance Edge Selection,MEG_Delta,mTE,1-Method,5,0.647352647,DP_Enhanced
+High-Variance Edge Selection,MEG_Delta,Pearson+GCA,2-Method,5,0.634365634,DP_Enhanced
+High-Variance Edge Selection,MEG_Delta,Pearson+mTE,2-Method,0,1.0,DP_Enhanced
+High-Variance Edge Selection,MEG_Delta,GCA+mTE,2-Method,0,1.0,DP_Enhanced
+High-Variance Edge Selection,MEG_Delta,Pearson+GCA+mTE,3-Method,0,1.0,DP_Enhanced
+High-Variance Edge Selection,MEG_High-Gamma,Pearson,1-Method,0,1.0,DP_Enhanced
+High-Variance Edge Selection,MEG_High-Gamma,GCA,1-Method,95,0.000999001,DP_Enhanced
+High-Variance Edge Selection,MEG_High-Gamma,mTE,1-Method,5,0.656343656,DP_Enhanced
+High-Variance Edge Selection,MEG_High-Gamma,Pearson+GCA,2-Method,90,0.000999001,DP_Enhanced
+High-Variance Edge Selection,MEG_High-Gamma,Pearson+mTE,2-Method,5,0.682317682,DP_Enhanced
+High-Variance Edge Selection,MEG_High-Gamma,GCA+mTE,2-Method,80,0.000999001,DP_Enhanced
+High-Variance Edge Selection,MEG_High-Gamma,Pearson+GCA+mTE,3-Method,85,0.000999001,DP_Enhanced
+High-Variance Edge Selection,MEG_Low-Frequency,Pearson,1-Method,5,0.632367632,DP_Enhanced
+High-Variance Edge Selection,MEG_Low-Frequency,GCA,1-Method,20,0.023976024,DP_Enhanced
+High-Variance Edge Selection,MEG_Low-Frequency,mTE,1-Method,15,0.068931069,DP_Enhanced
+High-Variance Edge Selection,MEG_Low-Frequency,Pearson+GCA,2-Method,10,0.263736264,DP_Enhanced
+High-Variance Edge Selection,MEG_Low-Frequency,Pearson+mTE,2-Method,10,0.270729271,DP_Enhanced
+High-Variance Edge Selection,MEG_Low-Frequency,GCA+mTE,2-Method,10,0.234765235,DP_Enhanced
+High-Variance Edge Selection,MEG_Low-Frequency,Pearson+GCA+mTE,3-Method,10,0.248751249,DP_Enhanced
+High-Variance Edge Selection,MEG_Low-Gamma,Pearson,1-Method,10,0.268731269,DP_Enhanced
+High-Variance Edge Selection,MEG_Low-Gamma,GCA,1-Method,95,0.000999001,DP_Enhanced
+High-Variance Edge Selection,MEG_Low-Gamma,mTE,1-Method,40,0.000999001,DP_Enhanced
+High-Variance Edge Selection,MEG_Low-Gamma,Pearson+GCA,2-Method,90,0.000999001,DP_Enhanced
+High-Variance Edge Selection,MEG_Low-Gamma,Pearson+mTE,2-Method,35,0.000999001,DP_Enhanced
+High-Variance Edge Selection,MEG_Low-Gamma,GCA+mTE,2-Method,70,0.000999001,DP_Enhanced
+High-Variance Edge Selection,MEG_Low-Gamma,Pearson+GCA+mTE,3-Method,85,0.000999001,DP_Enhanced
+High-Variance Edge Selection,MEG_Theta,Pearson,1-Method,0,1.0,DP_Enhanced
+High-Variance Edge Selection,MEG_Theta,GCA,1-Method,55,0.000999001,DP_Enhanced
+High-Variance Edge Selection,MEG_Theta,mTE,1-Method,0,1.0,DP_Enhanced
+High-Variance Edge Selection,MEG_Theta,Pearson+GCA,2-Method,25,0.004995005,DP_Enhanced
+High-Variance Edge Selection,MEG_Theta,Pearson+mTE,2-Method,0,1.0,DP_Enhanced
+High-Variance Edge Selection,MEG_Theta,GCA+mTE,2-Method,30,0.002997003,DP_Enhanced
+High-Variance Edge Selection,MEG_Theta,Pearson+GCA+mTE,3-Method,20,0.013986014,DP_Enhanced
+High-Variance Edge Selection,MEG_Wide-band,Pearson,1-Method,5,0.642357642,DP_Enhanced
+High-Variance Edge Selection,MEG_Wide-band,GCA,1-Method,95,0.000999001,DP_Enhanced
+High-Variance Edge Selection,MEG_Wide-band,mTE,1-Method,5,0.695304695,DP_Enhanced
+High-Variance Edge Selection,MEG_Wide-band,Pearson+GCA,2-Method,95,0.000999001,DP_Enhanced
+High-Variance Edge Selection,MEG_Wide-band,Pearson+mTE,2-Method,5,0.64035964,DP_Enhanced
+High-Variance Edge Selection,MEG_Wide-band,GCA+mTE,2-Method,70,0.000999001,DP_Enhanced
+High-Variance Edge Selection,MEG_Wide-band,Pearson+GCA+mTE,3-Method,55,0.000999001,DP_Enhanced
+High-Variance Edge Selection,fMRI + MEG_Aperiodic-VMD,Pearson,Cross-Modal 1-Method,100,0.000999001,DP_Enhanced
+High-Variance Edge Selection,fMRI + MEG_Aperiodic-VMD,GCA,Cross-Modal 1-Method,100,0.000999001,DP_Enhanced
+High-Variance Edge Selection,fMRI + MEG_Aperiodic-VMD,mTE,Cross-Modal 1-Method,50,0.000999001,DP_Enhanced
+High-Variance Edge Selection,fMRI + MEG_Aperiodic-VMD,Pearson+GCA,Cross-Modal 2-Method,100,0.000999001,DP_Enhanced
+High-Variance Edge Selection,fMRI + MEG_Aperiodic-VMD,Pearson+mTE,Cross-Modal 2-Method,100,0.000999001,DP_Enhanced
+High-Variance Edge Selection,fMRI + MEG_Aperiodic-VMD,GCA+mTE,Cross-Modal 2-Method,100,0.000999001,DP_Enhanced
+High-Variance Edge Selection,fMRI + MEG_Aperiodic-VMD,Pearson+GCA+mTE,Cross-Modal 3-Method,100,0.000999001,DP_Enhanced
+High-Variance Edge Selection,MEG_All_Bands,Pearson,Cross-Modal 1-Method,55,0.000999001,DP_Enhanced
+High-Variance Edge Selection,MEG_All_Bands,GCA,Cross-Modal 1-Method,95,0.000999001,DP_Enhanced
+High-Variance Edge Selection,MEG_All_Bands,mTE,Cross-Modal 1-Method,5,0.632367632,DP_Enhanced
+High-Variance Edge Selection,MEG_All_Bands,Pearson+GCA,Cross-Modal 2-Method,100,0.000999001,DP_Enhanced
+High-Variance Edge Selection,MEG_All_Bands,Pearson+mTE,Cross-Modal 2-Method,20,0.014985015,DP_Enhanced
+High-Variance Edge Selection,MEG_All_Bands,GCA+mTE,Cross-Modal 2-Method,85,0.000999001,DP_Enhanced
+High-Variance Edge Selection,MEG_All_Bands,Pearson+GCA+mTE,Cross-Modal 3-Method,85,0.000999001,DP_Enhanced
+High-Variance Edge Selection,fMRI + MEG_All_Bands,Pearson,Cross-Modal 1-Method,70,0.000999001,DP_Enhanced
+High-Variance Edge Selection,fMRI + MEG_All_Bands,GCA,Cross-Modal 1-Method,100,0.000999001,DP_Enhanced
+High-Variance Edge Selection,fMRI + MEG_All_Bands,mTE,Cross-Modal 1-Method,35,0.000999001,DP_Enhanced
+High-Variance Edge Selection,fMRI + MEG_All_Bands,Pearson+GCA,Cross-Modal 2-Method,100,0.000999001,DP_Enhanced
+High-Variance Edge Selection,fMRI + MEG_All_Bands,Pearson+mTE,Cross-Modal 2-Method,60,0.000999001,DP_Enhanced
+High-Variance Edge Selection,fMRI + MEG_All_Bands,GCA+mTE,Cross-Modal 2-Method,85,0.000999001,DP_Enhanced
+High-Variance Edge Selection,fMRI + MEG_All_Bands,Pearson+GCA+mTE,Cross-Modal 3-Method,85,0.000999001,DP_Enhanced
+PCA Reconstructed,fMRI,Pearson,1-Method,60,0.000999001,PCA_Reconstructed
+PCA Reconstructed,fMRI,GCA,1-Method,50,0.000999001,PCA_Reconstructed
+PCA Reconstructed,fMRI,mTE,1-Method,20,0.006993007,PCA_Reconstructed
+PCA Reconstructed,fMRI,Pearson+GCA,2-Method,50,0.000999001,PCA_Reconstructed
+PCA Reconstructed,fMRI,Pearson+mTE,2-Method,35,0.000999001,PCA_Reconstructed
+PCA Reconstructed,fMRI,GCA+mTE,2-Method,35,0.000999001,PCA_Reconstructed
+PCA Reconstructed,fMRI,Pearson+GCA+mTE,3-Method,40,0.000999001,PCA_Reconstructed
+PCA Reconstructed,MEG_Alpha,Pearson,1-Method,5,0.633366633,PCA_Reconstructed
+PCA Reconstructed,MEG_Alpha,GCA,1-Method,15,0.044955045,PCA_Reconstructed
+PCA Reconstructed,MEG_Alpha,mTE,1-Method,5,0.946053946,PCA_Reconstructed
+PCA Reconstructed,MEG_Alpha,Pearson+GCA,2-Method,10,0.242757243,PCA_Reconstructed
+PCA Reconstructed,MEG_Alpha,Pearson+mTE,2-Method,10,0.263736264,PCA_Reconstructed
+PCA Reconstructed,MEG_Alpha,GCA+mTE,2-Method,5,1.0,PCA_Reconstructed
+PCA Reconstructed,MEG_Alpha,Pearson+GCA+mTE,3-Method,5,0.828171828,PCA_Reconstructed
+PCA Reconstructed,MEG_Aperiodic-VMD,Pearson,1-Method,85,0.000999001,PCA_Reconstructed
+PCA Reconstructed,MEG_Aperiodic-VMD,GCA,1-Method,15,0.017982018,PCA_Reconstructed
+PCA Reconstructed,MEG_Aperiodic-VMD,mTE,1-Method,0,1.0,PCA_Reconstructed
+PCA Reconstructed,MEG_Aperiodic-VMD,Pearson+GCA,2-Method,15,0.010989011,PCA_Reconstructed
+PCA Reconstructed,MEG_Aperiodic-VMD,Pearson+mTE,2-Method,45,0.000999001,PCA_Reconstructed
+PCA Reconstructed,MEG_Aperiodic-VMD,GCA+mTE,2-Method,20,0.002997003,PCA_Reconstructed
+PCA Reconstructed,MEG_Aperiodic-VMD,Pearson+GCA+mTE,3-Method,20,0.004995005,PCA_Reconstructed
+PCA Reconstructed,MEG_Beta,Pearson,1-Method,10,0.277722278,PCA_Reconstructed
+PCA Reconstructed,MEG_Beta,GCA,1-Method,5,1.0,PCA_Reconstructed
+PCA Reconstructed,MEG_Beta,mTE,1-Method,5,1.0,PCA_Reconstructed
+PCA Reconstructed,MEG_Beta,Pearson+GCA,2-Method,5,1.0,PCA_Reconstructed
+PCA Reconstructed,MEG_Beta,Pearson+mTE,2-Method,5,0.684315684,PCA_Reconstructed
+PCA Reconstructed,MEG_Beta,GCA+mTE,2-Method,5,1.0,PCA_Reconstructed
+PCA Reconstructed,MEG_Beta,Pearson+GCA+mTE,3-Method,5,1.0,PCA_Reconstructed
+PCA Reconstructed,MEG_Delta,Pearson,1-Method,0,1.0,PCA_Reconstructed
+PCA Reconstructed,MEG_Delta,GCA,1-Method,15,0.063936064,PCA_Reconstructed
+PCA Reconstructed,MEG_Delta,mTE,1-Method,5,0.682317682,PCA_Reconstructed
+PCA Reconstructed,MEG_Delta,Pearson+GCA,2-Method,15,0.036963037,PCA_Reconstructed
+PCA Reconstructed,MEG_Delta,Pearson+mTE,2-Method,0,1.0,PCA_Reconstructed
+PCA Reconstructed,MEG_Delta,GCA+mTE,2-Method,0,1.0,PCA_Reconstructed
+PCA Reconstructed,MEG_Delta,Pearson+GCA+mTE,3-Method,0,1.0,PCA_Reconstructed
+PCA Reconstructed,MEG_High-Gamma,Pearson,1-Method,5,0.84015984,PCA_Reconstructed
+PCA Reconstructed,MEG_High-Gamma,GCA,1-Method,5,0.952047952,PCA_Reconstructed
+PCA Reconstructed,MEG_High-Gamma,mTE,1-Method,5,0.694305694,PCA_Reconstructed
+PCA Reconstructed,MEG_High-Gamma,Pearson+GCA,2-Method,5,1.0,PCA_Reconstructed
+PCA Reconstructed,MEG_High-Gamma,Pearson+mTE,2-Method,5,0.835164835,PCA_Reconstructed
+PCA Reconstructed,MEG_High-Gamma,GCA+mTE,2-Method,5,0.959040959,PCA_Reconstructed
+PCA Reconstructed,MEG_High-Gamma,Pearson+GCA+mTE,3-Method,5,0.953046953,PCA_Reconstructed
+PCA Reconstructed,MEG_Low-Frequency,Pearson,1-Method,5,0.652347652,PCA_Reconstructed
+PCA Reconstructed,MEG_Low-Frequency,GCA,1-Method,5,0.767232767,PCA_Reconstructed
+PCA Reconstructed,MEG_Low-Frequency,mTE,1-Method,15,0.067932068,PCA_Reconstructed
+PCA Reconstructed,MEG_Low-Frequency,Pearson+GCA,2-Method,5,0.633366633,PCA_Reconstructed
+PCA Reconstructed,MEG_Low-Frequency,Pearson+mTE,2-Method,15,0.051948052,PCA_Reconstructed
+PCA Reconstructed,MEG_Low-Frequency,GCA+mTE,2-Method,15,0.043956044,PCA_Reconstructed
+PCA Reconstructed,MEG_Low-Frequency,Pearson+GCA+mTE,3-Method,10,0.132867133,PCA_Reconstructed
+PCA Reconstructed,MEG_Low-Gamma,Pearson,1-Method,0,1.0,PCA_Reconstructed
+PCA Reconstructed,MEG_Low-Gamma,GCA,1-Method,10,0.274725275,PCA_Reconstructed
+PCA Reconstructed,MEG_Low-Gamma,mTE,1-Method,5,1.0,PCA_Reconstructed
+PCA Reconstructed,MEG_Low-Gamma,Pearson+GCA,2-Method,5,1.0,PCA_Reconstructed
+PCA Reconstructed,MEG_Low-Gamma,Pearson+mTE,2-Method,5,0.952047952,PCA_Reconstructed
+PCA Reconstructed,MEG_Low-Gamma,GCA+mTE,2-Method,15,0.005994006,PCA_Reconstructed
+PCA Reconstructed,MEG_Low-Gamma,Pearson+GCA+mTE,3-Method,5,1.0,PCA_Reconstructed
+PCA Reconstructed,MEG_Theta,Pearson,1-Method,15,0.057942058,PCA_Reconstructed
+PCA Reconstructed,MEG_Theta,GCA,1-Method,5,1.0,PCA_Reconstructed
+PCA Reconstructed,MEG_Theta,mTE,1-Method,5,0.893106893,PCA_Reconstructed
+PCA Reconstructed,MEG_Theta,Pearson+GCA,2-Method,10,0.134865135,PCA_Reconstructed
+PCA Reconstructed,MEG_Theta,Pearson+mTE,2-Method,0,1.0,PCA_Reconstructed
+PCA Reconstructed,MEG_Theta,GCA+mTE,2-Method,0,1.0,PCA_Reconstructed
+PCA Reconstructed,MEG_Theta,Pearson+GCA+mTE,3-Method,20,0.002997003,PCA_Reconstructed
+PCA Reconstructed,MEG_Wide-band,Pearson,1-Method,10,0.270729271,PCA_Reconstructed
+PCA Reconstructed,MEG_Wide-band,GCA,1-Method,35,0.000999001,PCA_Reconstructed
+PCA Reconstructed,MEG_Wide-band,mTE,1-Method,5,0.745254745,PCA_Reconstructed
+PCA Reconstructed,MEG_Wide-band,Pearson+GCA,2-Method,15,0.030969031,PCA_Reconstructed
+PCA Reconstructed,MEG_Wide-band,Pearson+mTE,2-Method,10,0.245754246,PCA_Reconstructed
+PCA Reconstructed,MEG_Wide-band,GCA+mTE,2-Method,5,0.963036963,PCA_Reconstructed
+PCA Reconstructed,MEG_Wide-band,Pearson+GCA+mTE,3-Method,10,0.236763237,PCA_Reconstructed
+PCA Reconstructed,fMRI + MEG_Aperiodic-VMD,Pearson,Cross-Modal 1-Method,75,0.000999001,PCA_Reconstructed
+PCA Reconstructed,fMRI + MEG_Aperiodic-VMD,GCA,Cross-Modal 1-Method,50,0.000999001,PCA_Reconstructed
+PCA Reconstructed,fMRI + MEG_Aperiodic-VMD,mTE,Cross-Modal 1-Method,5,0.729270729,PCA_Reconstructed
+PCA Reconstructed,fMRI + MEG_Aperiodic-VMD,Pearson+GCA,Cross-Modal 2-Method,25,0.000999001,PCA_Reconstructed
+PCA Reconstructed,fMRI + MEG_Aperiodic-VMD,Pearson+mTE,Cross-Modal 2-Method,45,0.000999001,PCA_Reconstructed
+PCA Reconstructed,fMRI + MEG_Aperiodic-VMD,GCA+mTE,Cross-Modal 2-Method,30,0.000999001,PCA_Reconstructed
+PCA Reconstructed,fMRI + MEG_Aperiodic-VMD,Pearson+GCA+mTE,Cross-Modal 3-Method,35,0.000999001,PCA_Reconstructed
+PCA Reconstructed,MEG_All_Bands,Pearson,Cross-Modal 1-Method,30,0.001998002,PCA_Reconstructed
+PCA Reconstructed,MEG_All_Bands,GCA,Cross-Modal 1-Method,65,0.000999001,PCA_Reconstructed
+PCA Reconstructed,MEG_All_Bands,mTE,Cross-Modal 1-Method,5,0.82017982,PCA_Reconstructed
+PCA Reconstructed,MEG_All_Bands,Pearson+GCA,Cross-Modal 2-Method,40,0.000999001,PCA_Reconstructed
+PCA Reconstructed,MEG_All_Bands,Pearson+mTE,Cross-Modal 2-Method,25,0.006993007,PCA_Reconstructed
+PCA Reconstructed,MEG_All_Bands,GCA+mTE,Cross-Modal 2-Method,35,0.000999001,PCA_Reconstructed
+PCA Reconstructed,MEG_All_Bands,Pearson+GCA+mTE,Cross-Modal 3-Method,25,0.000999001,PCA_Reconstructed
+PCA Reconstructed,fMRI + MEG_All_Bands,Pearson,Cross-Modal 1-Method,50,0.000999001,PCA_Reconstructed
+PCA Reconstructed,fMRI + MEG_All_Bands,GCA,Cross-Modal 1-Method,80,0.000999001,PCA_Reconstructed
+PCA Reconstructed,fMRI + MEG_All_Bands,mTE,Cross-Modal 1-Method,5,0.802197802,PCA_Reconstructed
+PCA Reconstructed,fMRI + MEG_All_Bands,Pearson+GCA,Cross-Modal 2-Method,55,0.000999001,PCA_Reconstructed
+PCA Reconstructed,fMRI + MEG_All_Bands,Pearson+mTE,Cross-Modal 2-Method,65,0.000999001,PCA_Reconstructed
+PCA Reconstructed,fMRI + MEG_All_Bands,GCA+mTE,Cross-Modal 2-Method,45,0.000999001,PCA_Reconstructed
+PCA Reconstructed,fMRI + MEG_All_Bands,Pearson+GCA+mTE,Cross-Modal 3-Method,45,0.000999001,PCA_Reconstructed
+Maximum-Flow Features,fMRI,Pearson,1-Method,60,0.000999001,True_Max_Flow
+Maximum-Flow Features,fMRI,GCA,1-Method,30,0.001998002,True_Max_Flow
+Maximum-Flow Features,fMRI,mTE,1-Method,35,0.000999001,True_Max_Flow
+Maximum-Flow Features,fMRI,Pearson+GCA,2-Method,50,0.000999001,True_Max_Flow
+Maximum-Flow Features,fMRI,Pearson+mTE,2-Method,50,0.000999001,True_Max_Flow
+Maximum-Flow Features,fMRI,GCA+mTE,2-Method,10,0.261738262,True_Max_Flow
+Maximum-Flow Features,fMRI,Pearson+GCA+mTE,3-Method,30,0.000999001,True_Max_Flow
+Maximum-Flow Features,MEG_Alpha,Pearson,1-Method,15,0.065934066,True_Max_Flow
+Maximum-Flow Features,MEG_Alpha,GCA,1-Method,5,0.657342657,True_Max_Flow
+Maximum-Flow Features,MEG_Alpha,mTE,1-Method,10,0.254745255,True_Max_Flow
+Maximum-Flow Features,MEG_Alpha,Pearson+GCA,2-Method,15,0.066933067,True_Max_Flow
+Maximum-Flow Features,MEG_Alpha,Pearson+mTE,2-Method,10,0.235764236,True_Max_Flow
+Maximum-Flow Features,MEG_Alpha,GCA+mTE,2-Method,15,0.054945055,True_Max_Flow
+Maximum-Flow Features,MEG_Alpha,Pearson+GCA+mTE,3-Method,10,0.252747253,True_Max_Flow
+Maximum-Flow Features,MEG_Aperiodic-VMD,Pearson,1-Method,60,0.000999001,True_Max_Flow
+Maximum-Flow Features,MEG_Aperiodic-VMD,GCA,1-Method,75,0.000999001,True_Max_Flow
+Maximum-Flow Features,MEG_Aperiodic-VMD,mTE,1-Method,10,0.243756244,True_Max_Flow
+Maximum-Flow Features,MEG_Aperiodic-VMD,Pearson+GCA,2-Method,55,0.000999001,True_Max_Flow
+Maximum-Flow Features,MEG_Aperiodic-VMD,Pearson+mTE,2-Method,35,0.000999001,True_Max_Flow
+Maximum-Flow Features,MEG_Aperiodic-VMD,GCA+mTE,2-Method,50,0.000999001,True_Max_Flow
+Maximum-Flow Features,MEG_Aperiodic-VMD,Pearson+GCA+mTE,3-Method,55,0.000999001,True_Max_Flow
+Maximum-Flow Features,MEG_Beta,Pearson,1-Method,0,1.0,True_Max_Flow
+Maximum-Flow Features,MEG_Beta,GCA,1-Method,15,0.064935065,True_Max_Flow
+Maximum-Flow Features,MEG_Beta,mTE,1-Method,10,0.238761239,True_Max_Flow
+Maximum-Flow Features,MEG_Beta,Pearson+GCA,2-Method,5,0.661338661,True_Max_Flow
+Maximum-Flow Features,MEG_Beta,Pearson+mTE,2-Method,5,0.685314685,True_Max_Flow
+Maximum-Flow Features,MEG_Beta,GCA+mTE,2-Method,15,0.063936064,True_Max_Flow
+Maximum-Flow Features,MEG_Beta,Pearson+GCA+mTE,3-Method,0,1.0,True_Max_Flow
+Maximum-Flow Features,MEG_Delta,Pearson,1-Method,10,0.282717283,True_Max_Flow
+Maximum-Flow Features,MEG_Delta,GCA,1-Method,15,0.085914086,True_Max_Flow
+Maximum-Flow Features,MEG_Delta,mTE,1-Method,0,1.0,True_Max_Flow
+Maximum-Flow Features,MEG_Delta,Pearson+GCA,2-Method,5,0.644355644,True_Max_Flow
+Maximum-Flow Features,MEG_Delta,Pearson+mTE,2-Method,0,1.0,True_Max_Flow
+Maximum-Flow Features,MEG_Delta,GCA+mTE,2-Method,10,0.258741259,True_Max_Flow
+Maximum-Flow Features,MEG_Delta,Pearson+GCA+mTE,3-Method,0,1.0,True_Max_Flow
+Maximum-Flow Features,MEG_High-Gamma,Pearson,1-Method,5,0.651348651,True_Max_Flow
+Maximum-Flow Features,MEG_High-Gamma,GCA,1-Method,55,0.000999001,True_Max_Flow
+Maximum-Flow Features,MEG_High-Gamma,mTE,1-Method,0,1.0,True_Max_Flow
+Maximum-Flow Features,MEG_High-Gamma,Pearson+GCA,2-Method,45,0.000999001,True_Max_Flow
+Maximum-Flow Features,MEG_High-Gamma,Pearson+mTE,2-Method,5,0.738261738,True_Max_Flow
+Maximum-Flow Features,MEG_High-Gamma,GCA+mTE,2-Method,20,0.001998002,True_Max_Flow
+Maximum-Flow Features,MEG_High-Gamma,Pearson+GCA+mTE,3-Method,25,0.000999001,True_Max_Flow
+Maximum-Flow Features,MEG_Low-Frequency,Pearson,1-Method,5,0.622377622,True_Max_Flow
+Maximum-Flow Features,MEG_Low-Frequency,GCA,1-Method,0,1.0,True_Max_Flow
+Maximum-Flow Features,MEG_Low-Frequency,mTE,1-Method,5,0.682317682,True_Max_Flow
+Maximum-Flow Features,MEG_Low-Frequency,Pearson+GCA,2-Method,15,0.040959041,True_Max_Flow
+Maximum-Flow Features,MEG_Low-Frequency,Pearson+mTE,2-Method,5,0.663336663,True_Max_Flow
+Maximum-Flow Features,MEG_Low-Frequency,GCA+mTE,2-Method,5,0.661338661,True_Max_Flow
+Maximum-Flow Features,MEG_Low-Frequency,Pearson+GCA+mTE,3-Method,5,0.683316683,True_Max_Flow
+Maximum-Flow Features,MEG_Low-Gamma,Pearson,1-Method,0,1.0,True_Max_Flow
+Maximum-Flow Features,MEG_Low-Gamma,GCA,1-Method,70,0.000999001,True_Max_Flow
+Maximum-Flow Features,MEG_Low-Gamma,mTE,1-Method,5,0.656343656,True_Max_Flow
+Maximum-Flow Features,MEG_Low-Gamma,Pearson+GCA,2-Method,45,0.000999001,True_Max_Flow
+Maximum-Flow Features,MEG_Low-Gamma,Pearson+mTE,2-Method,0,1.0,True_Max_Flow
+Maximum-Flow Features,MEG_Low-Gamma,GCA+mTE,2-Method,15,0.010989011,True_Max_Flow
+Maximum-Flow Features,MEG_Low-Gamma,Pearson+GCA+mTE,3-Method,10,0.150849151,True_Max_Flow
+Maximum-Flow Features,MEG_Theta,Pearson,1-Method,5,0.642357642,True_Max_Flow
+Maximum-Flow Features,MEG_Theta,GCA,1-Method,5,0.655344655,True_Max_Flow
+Maximum-Flow Features,MEG_Theta,mTE,1-Method,5,0.673326673,True_Max_Flow
+Maximum-Flow Features,MEG_Theta,Pearson+GCA,2-Method,0,1.0,True_Max_Flow
+Maximum-Flow Features,MEG_Theta,Pearson+mTE,2-Method,5,0.645354645,True_Max_Flow
+Maximum-Flow Features,MEG_Theta,GCA+mTE,2-Method,15,0.078921079,True_Max_Flow
+Maximum-Flow Features,MEG_Theta,Pearson+GCA+mTE,3-Method,0,1.0,True_Max_Flow
+Maximum-Flow Features,MEG_Wide-band,Pearson,1-Method,10,0.261738262,True_Max_Flow
+Maximum-Flow Features,MEG_Wide-band,GCA,1-Method,70,0.000999001,True_Max_Flow
+Maximum-Flow Features,MEG_Wide-band,mTE,1-Method,10,0.256743257,True_Max_Flow
+Maximum-Flow Features,MEG_Wide-band,Pearson+GCA,2-Method,25,0.002997003,True_Max_Flow
+Maximum-Flow Features,MEG_Wide-band,Pearson+mTE,2-Method,10,0.268731269,True_Max_Flow
+Maximum-Flow Features,MEG_Wide-band,GCA+mTE,2-Method,55,0.000999001,True_Max_Flow
+Maximum-Flow Features,MEG_Wide-band,Pearson+GCA+mTE,3-Method,65,0.000999001,True_Max_Flow
+Maximum-Flow Features,fMRI + MEG_Aperiodic-VMD,Pearson,Cross-Modal 1-Method,75,0.000999001,True_Max_Flow
+Maximum-Flow Features,fMRI + MEG_Aperiodic-VMD,GCA,Cross-Modal 1-Method,40,0.000999001,True_Max_Flow
+Maximum-Flow Features,fMRI + MEG_Aperiodic-VMD,mTE,Cross-Modal 1-Method,45,0.000999001,True_Max_Flow
+Maximum-Flow Features,fMRI + MEG_Aperiodic-VMD,Pearson+GCA,Cross-Modal 2-Method,70,0.000999001,True_Max_Flow
+Maximum-Flow Features,fMRI + MEG_Aperiodic-VMD,Pearson+mTE,Cross-Modal 2-Method,45,0.000999001,True_Max_Flow
+Maximum-Flow Features,fMRI + MEG_Aperiodic-VMD,GCA+mTE,Cross-Modal 2-Method,5,0.868131868,True_Max_Flow
+Maximum-Flow Features,fMRI + MEG_Aperiodic-VMD,Pearson+GCA+mTE,Cross-Modal 3-Method,50,0.000999001,True_Max_Flow
+Maximum-Flow Features,MEG_All_Bands,Pearson,Cross-Modal 1-Method,10,0.122877123,True_Max_Flow
+Maximum-Flow Features,MEG_All_Bands,GCA,Cross-Modal 1-Method,70,0.000999001,True_Max_Flow
+Maximum-Flow Features,MEG_All_Bands,mTE,Cross-Modal 1-Method,20,0.014985015,True_Max_Flow
+Maximum-Flow Features,MEG_All_Bands,Pearson+GCA,Cross-Modal 2-Method,70,0.000999001,True_Max_Flow
+Maximum-Flow Features,MEG_All_Bands,Pearson+mTE,Cross-Modal 2-Method,10,0.238761239,True_Max_Flow
+Maximum-Flow Features,MEG_All_Bands,GCA+mTE,Cross-Modal 2-Method,20,0.001998002,True_Max_Flow
+Maximum-Flow Features,MEG_All_Bands,Pearson+GCA+mTE,Cross-Modal 3-Method,20,0.000999001,True_Max_Flow
+Maximum-Flow Features,fMRI + MEG_All_Bands,Pearson,Cross-Modal 1-Method,70,0.000999001,True_Max_Flow
+Maximum-Flow Features,fMRI + MEG_All_Bands,GCA,Cross-Modal 1-Method,75,0.000999001,True_Max_Flow
+Maximum-Flow Features,fMRI + MEG_All_Bands,mTE,Cross-Modal 1-Method,30,0.000999001,True_Max_Flow
+Maximum-Flow Features,fMRI + MEG_All_Bands,Pearson+GCA,Cross-Modal 2-Method,80,0.000999001,True_Max_Flow
+Maximum-Flow Features,fMRI + MEG_All_Bands,Pearson+mTE,Cross-Modal 2-Method,25,0.001998002,True_Max_Flow
+Maximum-Flow Features,fMRI + MEG_All_Bands,GCA+mTE,Cross-Modal 2-Method,30,0.000999001,True_Max_Flow
+Maximum-Flow Features,fMRI + MEG_All_Bands,Pearson+GCA+mTE,Cross-Modal 3-Method,65,0.000999001,True_Max_Flow
