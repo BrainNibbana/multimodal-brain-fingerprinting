@@ -264,6 +264,22 @@ The HCP terms also require acknowledgement of the data source. The following wor
 
 > Data were provided \[in part] by the Human Connectome Project, WU-Minn Consortium (Principal Investigators: David Van Essen and Kamil Ugurbil; 1U54MH091657) funded by the 16 NIH Institutes and Centers that support the NIH Blueprint for Neuroscience Research; and by the McDonnell Center for Systems Neuroscience at Washington University.
 
+### HCP Data Use and Participant Privacy
+
+All participant-level research outputs provided in this repository were derived exclusively from Open Access data of the Human Connectome Project (HCP) Young Adult study. No HCP Restricted Access data are included.
+
+Original HCP-assigned subject identifiers are retained solely for scientific reproducibility, data correspondence, and matching repeated recordings within the dataset.
+
+All HCP-derived data in this repository are redistributed subject to the [WU-Minn HCP Consortium Open Access Data Use Terms](https://www.humanconnectome.org/study/hcp-young-adult/document/wu-minn-hcp-consortium-open-access-data-use-terms).
+
+Users of these data must register with HCP ConnectomeDB, review and accept the applicable HCP Data Use Terms, and comply with all relevant institutional rules and regulations.
+
+Users must not attempt to establish the real-world identity of, re-identify, or contact any HCP participant.
+
+The brain fingerprinting analyses presented in this repository concern within-dataset identification across repeated neuroimaging recordings and are not intended to establish the real-world identities of individual participants.
+
+Further redistribution of HCP-derived data must remain subject to the same HCP Data Use Terms.
+
 
 
 \## Reproducibility notes
